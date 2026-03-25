@@ -1,7 +1,7 @@
 **Name:**__________________    **Race:**______  
 **Class:** ______    **Lvl:** ___    **Align:** ______  
 **Skills:**      STR: ___  DEX:___  CON:___  INT:___  WIS:___  CHR:___  
-**Saves:**    Plz,Poi&DM:___   R,S&W:___   Pet,Ply:___   BW:___   Spell:___  
+**Saves:**    Paralyze,Poison&DM:___   Rod,Staff&Wand:___   Petrification,Polymorph:___   BreathWeapon:___   Spell:___  
 **AC Front:** ___    **AC Rear:** ___    Armor:____________________________  
 **Combat:**      HP:____      THAC0:____  
 
