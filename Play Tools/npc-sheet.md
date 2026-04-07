@@ -1,9 +1,9 @@
-**Name:**__________________    **Race:**______  
-**Class:** ______    **Lvl:** ___    **Align:** ______  
-**Skills:**      STR: ___  DEX:___  CON:___  INT:___  WIS:___  CHR:___  
-**Saves:**    Paralyze,Poison&DM:___   Rod,Staff&Wand:___   Petrification,Polymorph:___   BreathWeapon:___   Spell:___  
-**AC Front:** ___    **AC Rear:** ___    Armor:____________________________  
-**Combat:**      HP:____      THAC0:____  
+**Name**:_    **Race**:_  
+**Class**:_    **Lvl**:_    **Align**:_  
+**Skills**      STR:_  DEX:_  CON:_  INT:_  WIS:_  CHR:_  
+**Saves**    Paralyze,Poison&DM:_   Rod,Staff&Wand:_   Petrification,Polymorph:_   BreathWeapon:_   Spell:_  
+**AC Front**:_    **AC Rear**:_    Armor Worn:_  
+**Combat**      HP:_      THAC0:_      Specialized:_ 
 
 | Weapon Name | Hit Mod | S/M Damage | L Damage |
 |:------------|:-------:|:----------:|:--------:|
@@ -15,17 +15,17 @@
 |             |         |     |      |     |            |          |     |       |
 |             |         |     |      |     |            |          |     |       |
 
-| Skill       | Attr | Mod | Notes                                      |
-|:------------|:----:|:---:|:-------------------------------------------|
-|             |      |     |                                            |
-|             |      |     |                                            |
-|             |      |     |                                            |
-|             |      |     |                                            |
+| Skill       | Attr | Mod | Notes                                          |
+|:------------|:----:|:---:|:-----------------------------------------------|
+|             |      |     |                                                |
+|             |      |     |                                                |
+|             |      |     |                                                |
+|             |      |     |                                                |
 
-**Spells**
+**Spells**:  
 
 
-# **Inventory**
-_________________________________________________
-_________________________________________________
-_________________________________________________
+**Inventory**:      _:pp   _:gp   _:ep   _:sp   _:cp  
+
+
+**Miscenaneous**  
