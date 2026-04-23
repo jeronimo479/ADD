@@ -3,51 +3,50 @@
 
 Civic & Town Center
 
-  T1. Market Square and Tower
+  T1. Market Square and Tower  
   (The Twelve – part of the civic structure; no T‑number)
 
 Caravan Grounds & Travel
 
-  T2. North Caravan Campground
-  T3. West Caravan Campground
-  T9. The Triboar Travelers
+  T2. North Caravan Campground  
+  T3. West Caravan Campground  
+  T9. The Triboar Travelers  
 
 Lodging
 
-  T10. Northshield House (inn)
-  T12. The Talking Troll (tavern)
-  T13. The Frost‑Touched Frog (closed inn)
-  T14. Six Windows (rooming house)
-  T20. Everwyvern House (luxury inn)
+  T10. Northshield House (inn)  
+  T13. The Frost‑Touched Frog (closed inn)  
+  T14. Six Windows (rooming house)  
+  T20. Everwyvern House (luxury inn)  
 
 Dining & Taverns
 
-  T12. The Talking Troll (tavern)
-  T16. The Triboar Arms (tavern)
-  T20. Everwyvern House (restaurant service available for guests)
-  T21. The Pleasing Platter (fine restaurant)
+  T12. The Talking Troll (tavern)  
+  T16. The Triboar Arms (tavern)  
+  T20. Everwyvern House (restaurant service available for guests)  
+  T21. The Pleasing Platter (fine restaurant)  
 
 Shops, Smiths, Ranches & Trade
 
-  T4. Happy Horse Ranch
-  T5. Wainwright’s Wagons
-  T6. The Lion’s Share (Lionshield Coster)
-  T7. Ransor’s Open Road (closed)
-  T8. The Cart and Coin
-  T11. Othovir’s Harness Shop
-  T17. Uldinath’s Arms (smithy)
-  T18. Foehammer’s Forge (smithy)
-  T23. Apothecary
-  T26. Scented Candles
+  T4. Happy Horse Ranch  
+  T5. Wainwright’s Wagons  
+  T6. The Lion’s Share (Lionshield Coster)  
+  T7. Ransor’s Open Road (closed)  
+  T8. The Cart and Coin  
+  T11. Othovir’s Harness Shop  
+  T17. Uldinath’s Arms (smithy)  
+  T18. Foehammer’s Forge (smithy)  
+  T23. Apothecary  
+  T26. Scented Candles  
 
 Estates, Parks & Special Places
 
-  T15. Boar’s Rest (private estate)
-  T19. Merivold Pony Park
-  T22. Graveyard
-  T24. Gwaeron’s Slumber (sacred grove)
-  T25. Marshaling Field
-  T27. Priest's Home
+  T15. Boar’s Rest (private estate)  
+  T19. Merivold Pony Park  
+  T22. Graveyard  
+  T24. Gwaeron’s Slumber (sacred grove)  
+  T25. Marshaling Field  
+  T27. Priest's Home  
 
 # Triboar — Full Descriptions
 
