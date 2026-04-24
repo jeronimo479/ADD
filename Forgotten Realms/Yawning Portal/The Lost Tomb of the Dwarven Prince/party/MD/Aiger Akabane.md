@@ -5,7 +5,7 @@
 
 **Saves**   Paralyze,Poison&DM:14  Rod,Staff&Wand:16  Petrification,Polymorph:15  BreathWeapon:17  Spell: 17
 
-**AC Front:**4    **AC Rear:** 5    Armor: Chainmail + Steel Shield
+**AC Front:**4    **AC Rear:** 5    Armor: Chainmail & Steel Shield
 
 **Combat**    HP:1    THAC0: 20
 
@@ -18,11 +18,10 @@
 |-------------|---------|-------|--------|------|------------|----------|-----|-------|
 | -           | -       | -     | -      | -    | -          | -        | -   | -     |
 
-| Skill          | Attr | Mod | Notes                  |
-|----------------|------|-----|------------------------|
-| Blind Fighting | -    | -   | Special Ability        |
-| Endurance      | -    | -   | Special Ability        |
-| Alertness      | -    | -   | Special Ability        |
+| Skill  3+1/3     | Attr | Mod | Notes                       |
+|------------------|------|-----|-----------------------------|
+| Endurance''      | Con  | -0  | x2Duration                  |
+| Mountaineering   | -    | -   | +10%/slot to climbing       |
 
 **Spells**  
 

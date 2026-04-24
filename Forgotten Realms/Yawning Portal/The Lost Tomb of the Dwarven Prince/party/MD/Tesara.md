@@ -18,11 +18,12 @@
 |-------------------|---------|-------|--------|------|------------|----------|-----|-------|
 | Sling &Bullets    | +1      |     |     |0  | 1d6        | 1d6      | 2   | 20    |
 
-| Skill      | Attr | Mod | Notes            |
-|------------|------|-----|------------------|
-| Tracking   | WIS  | +2  | Ranger ability   |
-| Survival   | WIS  | +2  | -                |
-| Stealth    | DEX  | +1  | -                |
+| Skill 3+1/4     | Attr | Mod | Notes                                 |
+|-----------------|------|-----|---------------------------------------|
+| Appraisal       | INT  |  0  | Est val to nearest 10,100,1000..      |
+| Direction Sense | WIS  | +1  | d6 rnd, know dir. off by 90 or 180(20)|
+| Tumbling        | DEX  | +2  | Evade(+4toAC). +2Atk !Wpn. 60' ½dmg   |
+
 
 **Spells**
 

@@ -19,12 +19,12 @@
 |-------------|---------|-------|--------|------|------------|----------|-----|-------|
 | Darts       | +0      | 10    | 20     | 30   | 1d3        | 1d2      | 3   | ?     |
 
-| Skill             | Attr | Mod | Notes |
+| Skill 4+1/3       | Attr | Mod | Notes |
 |-------------------|------|-----|-------|
-| Reading/Writing   | INT  | -   | -     |
-| Heraldry          | INT  | -   | -     |
-| Ancient History   | INT  | -   | -     |
-| Astrology         | INT  | -   | -     |
+| Reading/Writing   | INT  | +1  | Read/Write known languages        |
+| Heraldry          | INT  |  0  | Identify political/casts/nobility |
+| Ancient History   | INT  | -1  | Facts about specific history      |
+| Astrology''       | INT  |  0  | Stars yield prediction            |
 
 **Spells**
 1st level (1 prepared): Sleep or Magic Missile

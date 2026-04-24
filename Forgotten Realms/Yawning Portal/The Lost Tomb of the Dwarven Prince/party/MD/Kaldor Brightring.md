@@ -17,13 +17,12 @@
 |-----------------|---------|-------|--------|------|------------|----------|-----|-------|
 | Sling & Bullets | -       | -     | -      | -    | -          | -        | -   | -     |
 
-| Skill             | Attr | Mod | Notes       |
-|-------------------|------|-----|-------------|
-| Religion          | WIS  | +2  | -           |
-| Healing           | WIS  | +2  | -           |
-| Ancient History   | INT  | +1  | -           |
-| Appraising        | INT  | +1  | -           |
-| Weather Sense     | WIS  |     |             |
+| Skill 4 + 1/3     | Attr | Mod | Notes                 |
+|-------------------|------|-----|-----------------------|
+| Healing''         | WIS  | -2  | +d3                   |
+| Religion          | WIS  |  0  | Knows local relions   |
+| Weather Sense     | WIS  | -1  | Guess weather in 6hrs |
+
 
 
 **Spells**

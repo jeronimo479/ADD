@@ -18,18 +18,17 @@
 |-------------|---------|-------|--------|----------|------------|----------|-----|-------|
 | +1 Longbow  | +3      | 50'   | 100'   | 170'     | d8+3       | d8+3     | 2   | 200   |
 
-| Skill              | Attr | Mod | Notes |
-|--------------------|------|-----|-------|
-| Tracking           | Wis  | 0   |       |
-| Survival / Forrest | Int  | 0   |       |
-| Navigation         | Int  | -2  |       |
-| Animal Lore        |      |     |       |
-| Mountaineering     | Str  | 0   |       |
+| Skill 3+1/3      | Attr | Mod | Notes                   |
+|------------------|------|-----|-------------------------|
+| Animal Lore      | Int  |  0  |                         |
+| Mountaineering   |      |     | Can climb using equip   |
+| Woods Survival'' | Int  | 0   | Find minimal water &food|
+| Tracking*''      | Wis  | 0   | p64                     |
 
 MoveSilent:40%   Hide:31%   ReadLang:25%   DetSnare&Pit:70%
 
-Animal Empathy: +4Chr
-Animal save vs. Rod - 2
+Animal Empathy: +4Chr; Animal save vs. Rod -2
+Surprised (forrest) 1 in 6
 
 **Spells**
 
