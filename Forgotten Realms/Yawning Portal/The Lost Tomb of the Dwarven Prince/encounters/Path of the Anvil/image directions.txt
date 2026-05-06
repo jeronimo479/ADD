@@ -1,30 +1,12 @@
-Steadfast Crossing
-Sketch an image of a square stone cellar room with a 14 foot ceiling that is 40 feet wide and 20 feet deep.
-The imagery should reflect low lighting or torch light.
-On the far wall is a tunnel entrance with sheer walls and an arched ceiling. 
-The greased tunnel floor drops away from the room and has many three inch spikes.
-From the ceiling in the celler room hangs a slender pole that ends in a small target that looks like a shield.
-There are similar pole targets hanging down from the tunnel ceiling every 20 feet.
-The tunnel ceiling has 50 pipes that protrude several inches from which grey oobleck is poured.
-There is a dwarf holding a ware hammer standing in the cellar and looking into the tunnel opening.
-My vantage point is 6' off the floor and looking over the dwarf's shoulder.
+# Steadfast Crossing
+Sketch an image of a square stone cellar room with a 14 foot ceiling that is 40 feet wide and 20 feet deep. The imagery should reflect low lighting or torch light. On the far wall is a tunnel entrance with sheer walls and an arched ceiling. The greased tunnel floor drops away from the room and has many three inch spikes. From the ceiling in the celler room hangs a slender pole that ends in a small target that looks like a shield. There are similar pole targets hanging down from the tunnel ceiling every 20 feet. The tunnel ceiling has 50 pipes that protrude several inches from which grey oobleck is poured. There is a dwarf holding a ware hammer standing in the cellar and looking into the tunnel opening. My vantage point is 6' off the floor and looking over the dwarf's shoulder.
 
 
-Burden of Stone
-Sketch an image of a square stone cellar room with a 14 foot ceiling that is 40 feet wide and 20 feet deep.
-The imagery should reflect low lighting or torch light.
-On the far wall is a tunnel entrance with sheer walls and an arched ceiling enclosing train tracks and a rail car.
-The rail car has an inclined backrest supporting a headless skeleton going head-first into the tunnel.
-The skeleton has both feet resting near foot pedals that are used to drive the railcar.
-The tunnel and rails leads to a nearby circular silo with no visible ceiling or floor.
-There is a slot in the railcar floor between the skeleton's legs, which are pointing towards us, that currently holds the handle of a ornate dwarven war hammer.
-Attache on the left and right side of the railcar are 5 foot tall sheets of steel that resemble the two halves of a clam shell that close upon the car and protect the passenger from falling stone when the hammer is pulled towards the skeleton.
+# Burden of Stone
+Sketch an image of a square stone cellar room with a 14 foot ceiling that is 40 feet wide and 20 feet deep. The imagery should reflect low lighting or torch light. On the far wall is a tunnel entrance with sheer walls and an arched ceiling enclosing train tracks and a rail car. The rail car has an inclined backrest supporting a headless skeleton going head-first into the tunnel. The skeleton has both feet resting near foot pedals that are used to drive the railcar. The tunnel and rails leads to a nearby circular silo with no visible ceiling or floor. There is a slot in the railcar floor between the skeleton's legs, which are pointing towards us, that currently holds the handle of a ornate dwarven war hammer. Attache on the left and right side of the railcar are 5 foot tall sheets of steel that resemble the two halves of a clam shell that close upon the car and protect the passenger from falling stone when the hammer is pulled towards the skeleton.
 
-Hammered Ascent
-Sketch an image of a 40 foot circular stone room that is the bottom of a dwarven elevator.
-The imagery should reflect low lighting or torch light.
-A single 3 inch chain descends from the ceiling and it connects to an elevator platform that is six foot square.
-The platform uses a spinning 500 pound, 4 foot diameter stone flywheel that can be engaged onto the chain. 
-The stone flywheel is connected by many gears to a drive assembly that is perpendicular to the flywheel and has 3 evenly spaced paddles.
-The image should show a dwarf holding a war hammer looking at the elevator platform.
+# Hammered Ascent
+Sketch an image of a 40 foot circular stone room that is the bottom of a dwarven elevator. The imagery should reflect low lighting or torch light. A single 3 inch chain descends from the ceiling and it connects to an elevator platform that is six foot square. The platform uses a spinning 500 pound, 4 foot diameter stone flywheel that can be engaged onto the chain. The stone flywheel is connected by many gears to a drive assembly that is perpendicular to the flywheel and has 3 evenly spaced paddles. The image should show a dwarf holding a war hammer looking at the elevator platform.
 
+Catacombs
+Draw a room 20 feet wide (east - west) and 50 feet long (north - south) from the perspective of somebody 20 feet off the floor on the South wall in one of the crypts. The entrance is a 5 foot wide hallway on the West wall 10 feet from the South wall. There are hundreds of dwarf skeleton laid to rest here in individual crypts buried into the East and West walls - feet in and face up on their back so that mostly what is seen are skulls and chest armor. They wear leather and each has a short sword. At the North wall are a pair of magically locked doors. One door had a square hole recessed into it. Beside the door is an urn. There is a dwarven fighter in the hall who is holding a war hammer and a torch and looking North at the double doors but may not see them because the room is dark except for the torch.
