@@ -5,15 +5,15 @@
 **AC Front**:_    **AC Rear**:_    Armor Worn:_  
 **Combat**      HP:_      THAC0:_      Specialized:_ 
 
-| Weapon Name | Hit Mod | S/M Damage | L Damage |
-|:------------|:-------:|:----------:|:--------:|
+| Weapon Name | Hit | Dmg | S/M Damage | L Damage |
+|:------------|:---:|:---:|:----------:|:--------:|
 |             |         |            |          |
 |             |         |            |          |
 
-| Missile Wpn | Hit Mod |Short|Medium|Long | S/M Damage | L Damage | ROF | Count |
-|:------------|:-------:|:---:|:----:|:---:|:----------:|:--------:|:---:|:-----:|
-|             |         |     |      |     |            |          |     |       |
-|             |         |     |      |     |            |          |     |       |
+| Missile Wpn | Hit | Dmg |Short|Medium|Long | S/M Damage | L Damage | ROF | Count |
+|:------------|:---:|:---:|:---:|:----:|:---:|:----------:|:--------:|:---:|:-----:|
+|             |     |     |     |      |     |            |          |     |       |
+|             |     |     |     |      |     |            |          |     |       |
 
 | Skill       | Attr | Mod | Notes                                          |
 |:------------|:----:|:---:|:-----------------------------------------------|
@@ -21,6 +21,9 @@
 |             |      |     |                                                |
 |             |      |     |                                                |
 |             |      |     |                                                |
+
+**Detections**:
+
 
 **Spells**:  
 
