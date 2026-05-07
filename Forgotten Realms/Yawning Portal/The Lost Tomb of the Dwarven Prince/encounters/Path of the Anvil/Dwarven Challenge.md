@@ -28,8 +28,9 @@ passage only to those who do not break faith with their stride."
 > they will sink to the bottom, and then fall over onto the spikes and take
 > d2 damage if they fail vs. wand.
 >
-> If they do not activate the Grimthölm and try to cross the greased floor,
-> they must roll d20 + 12 (or 20) <= DEX or fall, for every 5 feet crossed.
+> If they do not activate the Grimthölm and try to cross the 100 foot 
+> greased floor, they must roll d20 + 12 (or 20) <= DEX or fall, for every
+> 5 feet crossed.
 
 
 # The Burden of Stone
