@@ -21,9 +21,9 @@
 
 | Skill 3+1/3 | Attr | Mod | Notes      |
 |-------------|------|-----|------------|
-| Endurance'' | CON  | -0  | x2Duration |
+| Endurance   | CON  | -0  | x2Duration |
 | Riding, Lnd | DEX  | +3  |            |
-| Survival''  | INT  | -0  |            |
+| Survival    | INT  | -0  |            |
 
 **Spells**
 

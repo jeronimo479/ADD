@@ -24,7 +24,7 @@
 | Reading/Writing   | INT  | +1  | Read/Write known languages        |
 | Heraldry          | INT  |  0  | Identify political/casts/nobility |
 | Ancient History   | INT  | -1  | Facts about specific history      |
-| Astrology''       | INT  |  0  | Stars yield prediction            |
+| Astrology         | INT  |  0  | Stars yield prediction            |
 
 **Spells**
 1st level (1 prepared): Sleep or Magic Missile
