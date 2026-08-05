@@ -4,33 +4,33 @@
 **Saving Throw**: vs. Poison at onset time (Constitution bonus applies).  
 **Fail**: Full effect (damage or death drops to 0 HP). **Success**: Reduced effect or none.  
 Damage is immediate & healable; death is permanent unless cured timely.  
-**Modifiers**: 
-Victim Size vs. Attacker  
-4x larger:+4  2x larger:+2  ½ as large:-2  ¼ as large:-4
-+4 vs. small creature poison on large targets;  
-elves / dwarves get +1/+½.  
+**Modifiers**: Victim Size vs. Attacker  
+`  4x larger:+4  2x larger:+2  ½ as large:-2  ¼ as large:-4  
+`  +4 vs. small creature poison on large targets;  
+`  - elves / dwarves get +1/+½.  
 **Monster Venoms**: Onset usually 1-6 rounds (1 round for 5+ HD creatures); match to table type.
 
 ## Poison Table (DMG Table 51)
 
-| Class | Method     | Onset Time       | Effect (Fail / Success)                          | Cost (gp per dose) |
-|-------|-------------|------------------|--------------------------------------------------|--------------------|
-| A     | Injected   | 10-30 minutes    | 15 hit points / 0                                | 200                |
-| B     | Injected   | 2-12 minutes     | 20 hit points / 1d3                              | 150                |
-| C     | Injected   | 2-5 minutes      | 25 hit points / 2d4                              | 100                |
-| D     | Injected   | 1-2 minutes      | 30 hit points / 2d6                              | 50                 |
-| E     | Injected   | Instant          | Death / 20 hit points                            | 300                |
-| F     | Injected   | Instant          | Death / 0                                        | 500                |
-| G     | Ingested   | 2-12 hours       | 20 hit points / 10 hit points                    | 75                 |
-| H     | Ingested   | 1-4 hours        | 20 hit points / 10 hit points                    | 75                 |
-| I     | Ingested   | 2-12 minutes     | 30 hit points / 15 hit points                    | 50                 |
-| J     | Ingested   | 1-4 minutes      | Death / 20 hit points                            | 200                |
-| K     | Contact    | 2-8 minutes      | 5 hit points / 0                                 | 30                 |
-| L     | Contact    | 2-8 minutes      | 10 hit points / 0                                | 50                 |
-| M     | Contact    | 1-4 minutes      | 20 hit points / 5 hit points                     | 80                 |
-| N     | Contact    | 1 minute         | Death / 25 hit points                            | 150                |
-| O     | Injected   | 2-24 minutes     | Paralysis (2d6 hours, limp body) / None          | 80                 |
-| P     | Injected   | 1-3 hours        | Debilitation (1d3 days: halve abilities/attacks/damage/AC/movement; no healing) / None | 120          |
+| Class | Method   | Onset Time    | Effect (Fail / Success)                          | Cost |
+|-------|----------|---------------|--------------------------------------------------|------|
+| A     | Injected | 10-30 minutes | 15 hit points / 0                                | 200  |
+| B     | Injected | 2-12 minutes  | 20 hit points / 1d3                              | 150  |
+| C     | Injected | 2-5 minutes   | 25 hit points / 2d4                              | 100  |
+| D     | Injected | 1-2 minutes   | 30 hit points / 2d6                              | 50   |
+| E     | Injected | Instant       | Death / 20 hit points                            | 300  |
+| F     | Injected | Instant       | Death / 0                                        | 500  |
+| G     | Ingested | 2-12 hours    | 20 hit points / 10 hit points                    | 75   |
+| H     | Ingested | 1-4 hours     | 20 hit points / 10 hit points                    | 75   |
+| I     | Ingested | 2-12 minutes  | 30 hit points / 15 hit points                    | 50   |
+| J     | Ingested | 1-4 minutes   | Death / 20 hit points                            | 200  |
+| K     | Contact  | 2-8 minutes   | 5 hit points / 0                                 | 30   |
+| L     | Contact  | 2-8 minutes   | 10 hit points / 0                                | 50   |
+| M     | Contact  | 1-4 minutes   | 20 hit points / 5 hit points                     | 80   |
+| N     | Contact  | 1 minute      | Death / 25 hit points                            | 150  |
+| O     | Injected | 2-24 minutes  | Paralysis (2d6 hours, limp body) / None          | 80   |
+| P     | Injected | 1-3 hours     | Debilitation (1d3 days: halve abilities/attacks/ | 120  |
+|       |          |               |   damage/AC/movement; no healing) / None         |      |
 
 **Cost Notes**: From Dragon #81 (gas/aerosol x10 cost). Ingested ~1/2 injected price; adjust +/-50% for rarity/region.
 
