@@ -2,18 +2,20 @@
 **Class**:    **Lvl**:    **Align**:  
 **Skills**      STR:  DEX:  CON:  INT:  WIS:  CHR:  
 **Saves**    Paralyze,Poison&DM:   Rod,Staff&Wand:   Petrification,Polymorph:   BreathWeapon:   Spell:  
+** Languages**    
+
 **AC Front**:    **AC Rear**:    Armor Worn:  
 **Combat**      HP:      THAC0:      Specialized: 
 
-| Weapon Name | Hit | Dmg | S/M Damage | L Damage |
-|:------------|:---:|:---:|:----------:|:--------:|
-|             |     |     |            |          |
-|             |     |     |            |          |
+| Weapon Name | Hit | S/M Damage | L Damage |
+|:------------|:---:|:----------:|:--------:|
+|             |     |            |          |
+|             |     |            |          |
 
-| Missile Wpn | Hit | Dmg |Short|Medium|Long | S/M Damage | L Damage | ROF | Count |
-|:------------|:---:|:---:|:---:|:----:|:---:|:----------:|:--------:|:---:|:-----:|
-|             |     |     |     |      |     |            |          |     |       |
-|             |     |     |     |      |     |            |          |     |       |
+| Missile Wpn | Hit |Short|Medium|Long | S/M Dmg | L Dmg | ROF | Count |
+|:------------|:---:|:---:|:----:|:---:|:-------:|:-----:|:---:|:-----:|
+|             |     |     |      |     |         |       |     |       |
+|             |     |     |      |     |         |       |     |       |
 
 | Skill       | Attr | Mod | Notes                                             |
 |:------------|:----:|:---:|:--------------------------------------------------|
