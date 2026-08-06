@@ -1,4 +1,7 @@
-# Flametongue of Besilmer (Broadsword +1)
+# Flametongue of Besilmer 
+
+An ancient +1 broadsword, forged for King Torhild Flametongue and gifted to his
+son, Prince Torarinn of Besilmer, who fell in battle against a troll chieftain.
 
 ## Bonuses:
     • +1 normally  
@@ -7,13 +10,9 @@
     • +4 vs undead  
 
 ## Command Word:
-
+<dwarven phrase here>
 
 ## Effects:
     • Blade ignites, shedding torchlight  
     • Flame easily ignites oil, webs, paper, parchment, dry wood  
     • Flame ends if sheathed, dropped, or command word spoken again  
-
-## History:
-An ancient dwarven relic forged for King Torhild Flametongue and gifted to his son, Prince Torarinn of Besilmer, who fell in battle against a troll chieftain.
-
