@@ -1,21 +1,20 @@
-**Name**:    **Race**:  
-**Class**:    **Lvl**:    **Align**:  
-**Skills**      STR:  DEX:  CON:  INT:  WIS:  CHR:  
-**Saves**    Paralyze,Poison&DM:   Rod,Staff&Wand:   Petrification,Polymorph:   BreathWeapon:   Spell:  
-** Languages**    
+**Name**:    **Race**:    **Class**:    **Lvl**:    **Alignment**:  
+**Attributes**    STR:  DEX:  CON:  INT:  WIS:  CHA:  
+**Saves**    Para/Poison/DM:   Rod/Staff/Wand:   Petri/Poly:   Breath:   Spell:  
+**Languages**:      
 
-**AC Front**:    **AC Rear**:    Armor Worn:  
-**Combat**      HP:      THAC0:      Specialized: 
+**AC**:    Rear:    Armor Worn:    **MV**:  
+**Combat**      HP:      THAC0:      #AT:  
 
-| Weapon Name | Hit | S/M Damage | L Damage |
-|:------------|:---:|:----------:|:--------:|
-|             |     |            |          |
-|             |     |            |          |
+| Weapon Name | Hit |Speed| S/M Damage | L Damage |
+|:------------|:---:|:---:|:----------:|:--------:|
+|             |     |     |            |          |
+|             |     |     |            |          |
 
-| Missile Wpn | Hit |Short|Medium|Long | S/M Dmg | L Dmg | ROF | Count |
-|:------------|:---:|:---:|:----:|:---:|:-------:|:-----:|:---:|:-----:|
-|             |     |     |      |     |         |       |     |       |
-|             |     |     |      |     |         |       |     |       |
+| Ranged      | Hit | ROF |Short|Medium|Long | S/M Dmg | L Dmg | Count |
+|:------------|:---:|:---:|:---:|:----:|:---:|:-------:|:-----:|:-----:|
+|             |     |     |     |      |     |         |       |       |
+|             |     |     |     |      |     |         |       |       |
 
 | Skill       | Attr | Mod | Notes                                             |
 |:------------|:----:|:---:|:--------------------------------------------------|
@@ -24,13 +23,13 @@
 |             |      |     |                                                   |
 |             |      |     |                                                   |
 
-**Detections**:
+**Senses/Detections**:  
 
 
-**Spells**:  
+**Spells/Powers**:  
 
 
-**Inventory**:      :pp   :gp   :ep   :sp   :cp  
+**Inventory**    pp:   gp:   ep:   sp:   cp:  
 
 
-**Miscenaneous**  
+**Miscellaneous**  
