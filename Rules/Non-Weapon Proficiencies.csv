@@ -1,0 +1,66 @@
+﻿Proficiency,Classes,Slots Required,Relevant Ability,Check Modifier,Description
+Agriculture,G,1,Intelligence,0,Grow crops and manage farmland
+Ancient History,PRW,1,Intelligence,-1,Recall ancient peoples and events
+Animal Handling,G,1,Wisdom,-1,Calm and control domesticated animals
+Animal Lore,F,1,Intelligence,0,Know animal habits and weaknesses
+Animal Training,G,1,Wisdom,0,Train animals for specific tasks
+Appraising,R,1,Intelligence,0,Estimate value within 10-20%
+Armorer,F,2,Intelligence,-2,"Make, repair, and assess armor"
+Artistic Ability,G,1,Wisdom,0,Create and evaluate artwork
+Astrology,PW,2,Intelligence,0,Interpret stars and celestial omens
+Blacksmithing,G,1,Strength,0,Forge and repair metal items
+Blind-fighting,FR,2,N/A,N/A,Reduce penalties when sightless
+Bowyer/Fletcher,F,1,Dexterity,-1,Make and repair bows and arrows
+Brewing,G,1,Intelligence,0,"Brew beer, ale, and spirits"
+Carpentry,G,1,Strength,0,Build and repair wooden items
+Charioteering,F,1,Dexterity,2,Control chariots at speed
+Cobbling,G,1,Dexterity,0,Make and repair footwear
+Cooking,G,1,Intelligence,0,Prepare meals and preserve food
+Dancing,G,1,Dexterity,0,Perform and judge dance
+Direction Sense,G,1,Wisdom,1,Avoid becoming lost
+Disguise,R,1,Charisma,-1,Alter appearance convincingly
+Endurance,F,2,Constitution,0,Resist fatigue and forced marches
+Engineering,PW,2,Intelligence,-3,Design structures and machines
+Etiquette,G,1,Charisma,0,Know proper social customs
+Fire-building,G,1,Wisdom,-1,Start and maintain fires
+Fishing,G,1,Wisdom,-1,Catch fish with common methods
+Forgery,R,1,Dexterity,-1,Create convincing documents
+Gaming,FR,1,Charisma,0,Play games of chance and skill
+Gem Cutting,RW,2,Dexterity,-2,"Cut, shape, and value gems"
+Healing,P,2,Wisdom,-2,Restore 1d3 hp/day with care
+Heraldry,G,1,Intelligence,0,Recognize noble arms and lineage
+Herbalism,PW,2,Intelligence,-2,Identify and prepare medicinal herbs
+Hunting,F,1,Wisdom,-1,Track and harvest game
+Juggling,R,1,Dexterity,-1,Keep multiple objects aloft
+Jumping,R,1,Strength,0,Increase jump distance
+Languages-Ancient,PW,1,Intelligence,0,Read or speak ancient tongues
+Languages-Modern,G,1,Intelligence,0,Read or speak modern languages
+Leatherworking,G,1,Intelligence,0,Make and repair leather goods
+Local History,PR,1,Charisma,0,Know regional history and legends
+Mining,G,2,Wisdom,-3,Locate and extract ore deposits
+Mountaineering,F,1,N/A,N/A,Climb cliffs and mountain terrain
+Musical Instrument,PR,1,Dexterity,-1,Play one musical instrument
+Navigation,PFW,1,Intelligence,-2,Determine route and position
+Pottery,G,1,Dexterity,-2,Make fired clay vessels
+Reading Lips,R,2,Intelligence,-2,Understand speech from lip movement
+Reading/Writing,PW,1,Intelligence,1,Read and write known languages
+Religion,PW,1,Wisdom,0,"Know faiths, rites, and dogma"
+"Riding, Airborne",G,2,Wisdom,-2,Ride and control flying mounts
+"Riding, Land-Based",G,1,Wisdom,3,Ride and manage ground mounts
+Rope Use,G,1,Dexterity,0,"Knot, splice, and secure ropes"
+Running,F,1,Constitution,-6,Increase overland movement
+Seamanship,G,1,Dexterity,1,Work and operate aboard ships
+Seamstress/Tailor,G,1,Dexterity,-1,"Sew, mend, and alter clothing"
+Set Snares,FR,1,Dexterity,-1,Build traps for small game
+Singing,G,1,Charisma,0,Perform vocal music
+Spellcraft,PW,1,Intelligence,-2,Identify spells and magic effects
+Stonemasonry,G,1,Strength,-2,"Cut, shape, and lay stone"
+Survival,F,2,Intelligence,0,"Find food, water, and shelter"
+Swimming,G,1,Strength,0,Swim and stay afloat
+Tightrope Walking,R,1,Dexterity,0,Walk narrow supports safely
+Tracking,F,2,Wisdom,0,Follow tracks across terrain
+Tumbling,R,1,Dexterity,0,"Roll, dive, and avoid obstacles"
+Ventriloquism,R,1,Intelligence,-2,Project voice elsewhere
+Weaponsmithing,F,3,Wisdom,-3,Forge and repair weapons
+Weather Sense,G,1,Wisdom,-1,Predict weather 6 hours ahead
+Weaving,G,1,Intelligence,-1,Create cloth and woven goods

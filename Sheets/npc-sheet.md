@@ -4,7 +4,7 @@
 **Languages**:      
 
 **AC**:    Rear:    Armor Worn:    **MV**:  
-**Combat**      HP:      THAC0:      #AT:  
+**Combat**      HP:      THAC0:      #AT:      **Surprise**:  
 
 | Weapon Name | Hit |Speed| S/M Damage | L Damage |
 |:------------|:---:|:---:|:----------:|:--------:|
