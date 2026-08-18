@@ -105,14 +105,7 @@
 | 17            | +3                         | 3rd          | 0%                      |
 | 18            | +4                         | 4th          | 0%                      |
 
-
-
-
-
-
 ### Charisma
-
-### Table 6: Charisma
 
 | Ability Score | Maximum # of Henchmen | Loyalty Base | Reaction Adjustment |
 |---------------|-----------------------|--------------|---------------------|
@@ -135,10 +128,13 @@
 | 19            | 20                    | +10          | +8                  |
 
 ## Races
+
+### Human 12"
+
+Nothing to see here.
+
 ***
-### Human
-***
-### Dwarf
+### Dwarf  6"
 +1 Constitution, -1 Charisma at character creation. A character of the dwarven 
 race can be a cleric, a fighter, or a thief. He can also choose to be a fighter/
 cleric or fighter/thief.
@@ -178,7 +174,7 @@ ogres, trolls, and titans suffer a -4 penalty to attack rolls against dwarves.
 Dwarven infravision enables them to see up to 60 feet in the dark.
 
 ***
-### Elf
+### Elf    12"
 
 +1 Dexterity, -1 Constitution at character creation. A character of the elven
 race can be a cleric, fighter, mage, thief, or ranger. An elf can also choose
@@ -213,7 +209,7 @@ allow elves to discover secret doors.
 Elves require only 4 hours of rest each day.  
 
 ***
-### Gnome
+### Gnome   6"
 
 +1 Intelligence, -1 Wisdom at character creation. A character of the gnomish
 race can be a fighter, thief, illusionist, fighter/thief, illusionist/thief,
@@ -260,13 +256,8 @@ of these abilities.
 | 4/10 | Determine approximate depth underground |
 | 3/6 | Determine approximate direction underground |
 
-Gnome characters gain a +1 bonus to Intelligence scores. They suffer a -1
-penalty to Wisdom because their curiosity often leads them unknowingly into
-danger.
-
-
 ***
-### Half-Elf
+### Half-Elf  12"
 
 A character of the half-elven race can be a cleric, druid, fighter, ranger, mage,
 specialist wizard, thief, or bard. A half-elf can also choose from the following 
@@ -292,7 +283,7 @@ and allow half-elves to discover secret doors.
 | 2/6     | Detect secret door during active search            |
 
 ***
-### Halfling
+### Halfling  6"
 
 -1 Strength, +1 Dexterity at character creation. A character of the halfling
 race can be a cleric, fighter, thief, or fighter/thief.
@@ -323,7 +314,7 @@ the penalty is reduced to -2.
 Halflings have infravision, allowing them to see in the dark.
 
 | Light Conditions       | Range |
-|------------------------|--------|
+|------------------------|-------|
 | Normal Infravision     | 60 ft |
 | Starlight or Moonlight | 90 ft |
 
@@ -336,11 +327,6 @@ excluding all other distractions.
 | 1/6 | Determine whether a passage slopes upward or downward |
 | 2/6 | Determine approximate direction underground           |
 | 2/6 | Determine approximate depth underground               |
-
-***
-### Racial Adjustments
-
-### Table 8: Racial Ability Adjustments
 
 
 ## Classes
@@ -442,19 +428,16 @@ atonement is made.
 
 A paladin receives the following benefits:
 
-| Ability              | Effect                                                |
-|----------------------|-------------------------------------------------------|
-| Detect Evil          | Concentrate to detect evil intent up to 60 feet away  |
-| Divine Saving Throws | +2 bonus to all saving throws                         |
-| Disease Immunity     | Immune to all forms of disease                        |
-| Lay on Hands         | Heal 2 hit points per experience level per day        |
-| Cure Disease         | Cure disease once per week for every 5 levels         |
-| Protection from Evil | Constant 10-foot radius aura                          |
-| Turn Undead          | Functions as a cleric two levels lower                |
-| Holy Sword           | Projects a dispel magic effect when wielded           |
-
-A paladin's aura of protection causes evil creatures within 10 feet to suffer
-a -1 penalty to attack rolls.
+**Detect Evil**: Concentrate to detect evil intent up to 60 feet away  
+**Divine Saving Throws**: +2 bonus to all saving throws  
+**Disease Immunity**: Immune to all forms of disease  
+**Lay on Hands**: Heal 2 hit points per experience level per day  
+**Cure Disease**: Cure disease once per week for every 5 levels  
+**Protection from Evil**: Constant 10-foot radius aura. A paladin's aura of
+protection causes evil creatures within 10 feet to suffer a -1 penalty to
+attack rolls.  
+**Turn Undead**: Functions as a cleric two levels lower  
+**Holy Sword**: Projects a dispel magic effect when wielded  
 
 A paladin can call a special warhorse upon reaching 4th level. The mount is an
 exceptional and loyal creature that serves only the paladin.
@@ -534,7 +517,7 @@ from the spheres of animal and plant.
 Ranger Abilities
 
 | Ranger Level | Hide in Shadows | Move Silently | Casting Level | 1st | 2nd | 3rd |
-|--------------|----------------|----------------|---------------|-----|-----|-----|
+|:------------:|:--------------:|:--------------:|:--------------|-----|-----|-----|
 | 1            | 10%            | 15%            | -             | -   | -   | -   |
 | 2            | 15%            | 21%            | -             | -   | -   | -   |
 | 3            | 20%            | 27%            | -             | -   | -   | -   |
@@ -547,10 +530,10 @@ Ranger Abilities
 | 10           | 63%            | 78%            | 3             | 2   | 1   | -   |
 | 11           | 70%            | 86%            | 4             | 2   | 2   | -   |
 | 12           | 77%            | 94%            | 5             | 2   | 2   | 1   |
-| 13           | 85%            | 99%*           | 6             | 3   | 2   | 1   |
-| 14           | 93%            | 99%*           | 7             | 3   | 2   | 2   |
-| 15           | 99%*           | 99%*           | 8             | 3   | 3   | 2   |
-| 16           | 99%*           | 99%*           | 9             | 3   | 3** | 3   |
+| 13           | 85%            | 99%\*          | 6             | 3   | 2   | 1   |
+| 14           | 93%            | 99%\*          | 7             | 3   | 2   | 2   |
+| 15           | 99%\*          | 99%\*          | 8             | 3   | 3   | 2   |
+| 16           | 99%\*          | 99%\*          | 9             | 3   |`3**`| 3   |
 
 \* Maximum percentile score  
 \** Maximum spell ability
@@ -589,7 +572,6 @@ Wizard Experience Levels
 | 18    | 3,000,000         | 10+8     |
 | 19    | 3,375,000         | 10+9     |
 | 20    | 3,750,000         | 10+10    |
-
 
 Wizard Spell Progression
 
@@ -719,28 +701,32 @@ major and minor spheres granted by his deity or doctrine.
 
 Priest Experience Levels
 
-| Level | Cleric XP | Druid XP | Hit Dice |
-|-------|-----------|----------|----------|
-| 1     | 0         | 0        | d8       |
-| 2     | 1,500     | 2,000    | 2        |
-| 3     | 3,000     | 4,000    | 3        |
-| 4     | 6,000     | 7,500    | 4        |
-| 5     | 13,000    | 12,500   | 5        |
-| 6     | 27,500    | 20,000   | 6        |
-| 7     | 55,000    | 35,000   | 7        |
-| 8     | 110,000   | 60,000   | 8        |
-| 9     | 225,000   | 90,000   | 9        |
-| 10    | 450,000   | 125,000  | 9+2      |
-| 11    | 675,000   | 200,000  | 9+4      |
-| 12    | 900,000   | 300,000  | 9+6      |
-| 13    | 1,125,000 | 750,000  | 9+8      |
-| 14    | 1,350,000 | 1,500,000| 9+10     |
-| 15    | 1,575,000 | 3,000,000| 9+12     |
-| 16    | 1,800,000 | 3,500,000| 9+14     |
-| 17    | 2,025,000 | 1,000,000| 9+16     |
-| 18    | 2,250,000 | 1,500,000| 9+18     |
-| 19    | 2,475,000 | 2,000,000| 9+20     |
-| 20    | 2,700,000 | 2,000,000| 9+22     |
+| Level | Cleric XP | Druid XP     | Hit Dice |
+|-------|-----------|-----------   |----------|
+| 1     | 0         | 0            | d8       |
+| 2     | 1,500     | 2,000        | 2        |
+| 3     | 3,000     | 4,000        | 3        |
+| 4     | 6,000     | 7,500        | 4        |
+| 5     | 13,000    | 12,500       | 5        |
+| 6     | 27,500    | 20,000       | 6        |
+| 7     | 55,000    | 35,000       | 7        |
+| 8     | 110,000   | 60,000       | 8        |
+| 9     | 225,000   | 90,000       | 9        |
+| 10    | 450,000   | 125,000      | 9+2      |
+| 11    | 675,000   | 200,000      | 9+4      |
+| 12    | 900,000   | 300,000      | 9+6      |
+| 13    | 1,125,000 | 750,000{1}   | 9+8      |
+| 14    | 1,350,000 | 1,500,000{2} | 9+10     |
+| 15    | 1,575,000 | 3,000,000{3} |9+12     |
+| 16    | 1,800,000 | 3,500,000    | 9+14     |
+| 17    | 2,025,000 |   500,000    | 9+16     |
+| 18    | 2,250,000 | 1,000,000    | 9+18     |
+| 19    | 2,475,000 | 1,500,000    | 9+20     |
+| 20    | 2,700,000 | 2,000,000    | 9+22     |
+
+{1} Only 9 Archdruids per world.  
+{2} Only 3 Great Druids per world.  
+{3} Grand Druid; There can be only one per world.
 
 Priest Spell Progression
 
@@ -767,8 +753,10 @@ Priest Spell Progression
 | 19           | 9   | 9   | 8   | 8   | 6   | 4    | 2     |
 | 20           | 9   | 9   | 9   | 8   | 7   | 5    | 2     |
 
-\* Usable only by priests with Wisdom 17 or higher.  
-\** Usable only by priests with Wisdom 18 or higher.
+```
+* Usable only by priests with Wisdom 17 or higher.  
+** Usable only by priests with Wisdom 18 or higher.
+```
 
 Priest spells are organized into sixteen spheres:
 
@@ -806,7 +794,6 @@ continued observance of the tenets of the faith.
 
 At higher levels, priests often establish temples, shrines, monasteries, or
 other places of worship and attract followers devoted to their cause.
-
 
 #### Druid
 
@@ -923,7 +910,7 @@ specifically allowed to thieves.
 Base Thieving Skills
 
 | Skill              | Base Score |
-|--------------------|------------|
+|:-------------------|:----------:|
 | Pick Pockets       | 15%        |
 | Open Locks         | 10%        |
 | Find/Remove Traps  | 5%         |
@@ -942,7 +929,7 @@ No skill may exceed 95%, excluding racial and Dexterity adjustments.
 Thieving Skill Dexterity Adjustments
 
 | Dexterity | Pick Pockets | Open Locks | Find/Remove Traps | Move Silently | Hide in Shadows |
-|-----------|--------------|------------|-------------------|---------------|-----------------|
+|:---------:|-------------:|-----------:|------------------:|--------------:|----------------:|
 | 9         | -15%         | -10%       | -10%              | -20%          | -10%            |
 | 10        | -10%         |  -5%       | -10%              | -15%          |  -5%            |
 | 11        |  -5%         |   0%       |  -5%              | -10%          |   0%            |
@@ -955,7 +942,7 @@ Thieving Skill Dexterity Adjustments
 Thieving Skill Racial Adjustments
 
 | Skill              | Dwarf | Elf  | Gnome | Half-Elf | Halfling |
-|--------------------|-------|------|-------|----------|----------|
+|:-------------------|:-----:|:----:|:-----:|:--------:|:--------:|
 | Pick Pockets       |       |  +5% |       | +10%     |  +5%     |
 | Open Locks         | +10%  |  -5% |  +5%  |          |  +5%     |
 | Find/Remove Traps  | +15%  |      | +10%  |          |  +5%     |
@@ -986,7 +973,6 @@ A thief attacking an unaware victim from behind gains +4 to hit and extra damage
 | 5-8         | x3                |
 | 9-12        | x4                |
 | 13+         | x5                |
-
 
 Backstab cannot be used against creatures lacking a distinct rear facing, such
 as many oozes, slimes, jellies, and similar creatures.
@@ -1098,7 +1084,7 @@ Bard Spell Progression
 Bard Abilities
 
 | Skill              | Base Score |
-|--------------------|------------|
+|--------------------|-----------:|
 | Climb Walls        | 50%        |
 | Detect Noise       | 20%        |
 | Pick Pockets       | 10%        |
@@ -1166,16 +1152,14 @@ thereafter at the DM's discretion.
 capable of understanding and employing magical writings. Bards can use wizard
 scrolls according to the normal rules governing arcane spellcasting.
 
-
 ## Proficiencies
 
-| Group   | Weapon Initial | Weapon per Level | Weapon Penalty | Nonweapon Initial | Nonweapon per Level |
+| Group   | Initial<br> Weapons | Weapon<br> per Level | Weapon<br>Penalty | Initial<br> Nonweapons | Nonweapon<br> per Level |
 |---------|----------------|------------------|----------------|-------------------|--------------------|
 | Warrior | 4              | 3                | -2             | 3                 | 3                  |
 | Wizard  | 1              | 6                | -5             | 4                 | 3                  |
 | Priest  | 2              | 4                | -3             | 4                 | 3                  |
 | Rogue   | 2              | 4                | -3             | 3                 | 4                  |
-
 
 ### Nonweapon Profficiencies
 
@@ -1270,7 +1254,7 @@ Coins represent the monetary system.
 ### Clothing
 
 | Item                             | Cost  |
-|----------------------------------|------:|
+|:---------------------------------|------:|
 | Belt                             |  3 sp |
 | Boots, Riding                    |  3 gp |
 | Boots, Soft                      |  1 gp |
@@ -1302,7 +1286,7 @@ Coins represent the monetary system.
 ### Daily Food and Lodging
 
 | Item                                   | Cost  |
-|----------------------------------------|------:|
+|:---------------------------------------|------:|
 | Ale (per gallon)                       |  2 sp |
 | Banquet (per person)                   | 10 gp |
 | Bread                                  |  5 cp |
@@ -1330,7 +1314,7 @@ Coins represent the monetary system.
 ### Household Provisioning
 
 | Item                                      | Cost  |
-|-------------------------------------------|------:|
+|:------------------------------------------|------:|
 | Barrel of Pickled Fish                    |  3 gp |
 | Butter (per lb.)                          |  2 sp |
 | Coarse Sugar (per lb.)                    |  1 gp |
@@ -1352,9 +1336,8 @@ Coins represent the monetary system.
 | Tun of Good Wine (250 gal.)               | 20 gp |
 
 ### Tack and Harness
-
 | Item                             | Cost     | Wgt (lb.) |
-|----------------------------------|---------:|----------:|
+|:---------------------------------|---------:|----------:|
 | Barding, Chain                   |   500 gp | 70        |
 | Barding, Full Plate              | 2,000 gp | 85        |
 | Barding, Full Scale              | 1,000 gp | 75        |
@@ -1377,7 +1360,7 @@ Coins represent the monetary system.
 ### Transport
 
 | Item                        | Cost      |
-|-----------------------------|----------:|
+|:----------------------------|----------:|
 | Barge                       |    500 gp |
 | Canoe, Small                |     30 gp |
 | Canoe, War                  |     50 gp |
@@ -1401,8 +1384,9 @@ Coins represent the monetary system.
 | Sedan Chair                 |    100 gp |
 | Wagon or Cart Wheel         |      5 gp |
 
+### Miscellaneous Equipment
 | Item                            | Cost      | Wgt (lb.) |
-|---------------------------------|----------:|----------:|
+|:--------------------------------|----------:|----------:|
 | Backpack                        |      2 gp |         2 |
 | Barrel, Small                   |      2 gp |        30 |
 | Basket, Large                   |      3 sp |         1 |
@@ -1422,14 +1406,14 @@ Coins represent the monetary system.
 | Cloth (per 10 sq. yds.), Rich   |    100 gp |        10 |
 | Candle                          |      1 cp |         — |
 | Canvas (per sq. yd.)            |      4 sp |         1 |
-| Chalk                           |      1 cp |         * |
+| Chalk                           |      1 cp |       `*` |
 | Crampons                        |      4 gp |         2 |
-| Fishhook                        |      1 sp |        ** |
+| Fishhook                        |      1 sp |      `**` |
 | Fishing Net (10 ft. sq.)        |      4 sp |         5 |
-| Flint and Steel                 |      5 sp |         * |
-| Glass Bottle                    |     10 gp |         * |
+| Flint and Steel                 |      5 sp |       `*` |
+| Glass Bottle                    |     10 gp |       `*` |
 | Grappling Hook                  |      8 sp |         4 |
-| Holy Item (symbol, water, etc.) |     25 gp |         * |
+| Holy Item (symbol, water, etc.) |     25 gp |       `*` |
 | Hourglass                       |     25 gp |         1 |
 | Iron Pot                        |      5 sp |         2 |
 | Ladder (10 ft.)                 |      5 cp |        20 |
@@ -1438,27 +1422,27 @@ Coins represent the monetary system.
 | Lantern, Hooded                 |      7 gp |         2 |
 | Lock, Good                      |    100 gp |         1 |
 | Lock, Poor                      |     20 gp |         1 |
-| Magnifying Glass                |    100 gp |         * |
+| Magnifying Glass                |    100 gp |       `*` |
 | Map or Scroll Case              |      8 sp |       1/2 |
 | Merchant's Scale                |      2 gp |         1 |
-| Mirror, Small Metal             |     10 gp |         * |
+| Mirror, Small Metal             |     10 gp |       `*` |
 | Musical Instrument              |  5-100 gp |     1/2-3 |
 | Oil (per Flask), Greek Fire     |     10 gp |         2 |
 | Oil (per Flask), Lamp           |      6 cp |         1 |
-| Paper (per Sheet)               |      2 gp |        ** |
-| Papyrus (per Sheet)             |      8 sp |        ** |
-| Parchment (per Sheet)           |      1 gp |        ** |
-| Perfume (per Vial)              |      5 gp |        ** |
+| Paper (per Sheet)               |      2 gp |      `**` |
+| Papyrus (per Sheet)             |      8 sp |      `**` |
+| Parchment (per Sheet)           |      1 gp |      `**` |
+| Perfume (per Vial)              |      5 gp |      `**` |
 | Piton                           |      3 cp |       1/2 |
 | Quiver                          |      8 sp |         1 |
 | Rope (per 50 ft.), Hemp         |      1 gp |        20 |
 | Rope (per 50 ft.), Silk         |     10 gp |         8 |
 | Sack, Large                     |      2 sp |       1/2 |
-| Sack, Small                     |      5 cp |         * |
+| Sack, Small                     |      5 cp |       `*` |
 | Sealing/Candle Wax (lb.)        |      1 gp |         1 |
-| Sewing Needle                   |      5 sp |        ** |
-| Signal Whistle                  |      8 sp |         * |
-| Signet Ring, Personal Seal      |      5 gp |         * |
+| Sewing Needle                   |      5 sp |      `**` |
+| Signal Whistle                  |      8 sp |       `*` |
+| Signet Ring, Personal Seal      |      5 gp |       `*` |
 | Soap (per lb.)                  |      5 sp |         1 |
 | Spyglass                        |  1,000 gp |         1 |
 | Tent, Large                     |     25 gp |        20 |
@@ -1470,7 +1454,7 @@ Coins represent the monetary system.
 | Whetstone                       |      2 cp |         1 |
 | Wineskin                        |      8 sp |         1 |
 | Winter Blanket                  |      5 sp |         3 |
-| Writing Ink (per Vial)          |      8 gp |        ** |
+| Writing Ink (per Vial)          |      8 gp |      `**` |
 
 ```
 *	Negligible weight
@@ -1516,129 +1500,289 @@ Coins represent the monetary system.
 | Songbird                  |     10 sp |
 | Swan                      |      5 sp |
 
-
-
-
 ### Weapons
 
-| Item                      | Cost   | Wgt | Size | Type | Spd | S Dam | L Dam |
-|---------------------------|--------|-----|------|------|-----|-------|-------|
-| Arquebus                  | 500 gp |  10 | M    | P    |  15 | 1d10  | 1d10  |
-| Battle Axe                |   5 gp |   7 | M    | S    |   7 | 1d8   | 1d8   |
-| Blowgun                   |   5 gp |   2 | L    | P    |   5 | —     | —     |
-| Blowgun, Barbed Dart      |   1 sp |   * | S    | P    |   — | 1d3   | 1d2   |
-| Blowgun, Needle           |   2 gp |   * | S    | —    |   — | 1     | 1     |
-| Bow, Composite Long       | 100 gp |   3 | L    | —    |   7 | —     | —     |
-| Bow, Composite Short      |  75 gp |   2 | M    | —    |   6 | —     | —     |
-| Bow, Flight Arrow         |   3 sp |   * | S    | P    |   — | 1d6   | 1d6   |
-| Bow, Long                 |  75 gp |   3 | L    | P    |   8 | —     | —     |
-| Bow, Sheaf Arrow          |   3 sp |   * | S    | P    |   — | 1d8   | 1d8   |
-| Bow, Short                |  30 gp |   2 | M    | —    |   7 | —     | —     |
-| Club                      |      — |   3 | M    | B    |   4 | 1d6   | 1d3   |
-| Crossbow, Hand Quarrel    |   1 gp |   * | S    | P    |   — | 1d3   | 1d2   |
-| Crossbow, Hand            |  30 gp |   3 | S    | P    |   5 | —     | —     |
-| Crossbow, Heavy Quarrel   |   2 sp |   * | S    | P    |   — | 1d4+1 | 1d6+1 |
-| Crossbow, Heavy           |  50 gp |  14 | M    | —    |  10 | —     | —     |
-| Crossbow, Light Quarrel   |   1 sp |   * | S    | P    |   — | 1d4   | 1d4   |
-| Crossbow, Light           |  35 gp |   7 | M    | —    |   7 | —     | —     |
-| Dagger                    |   2 gp |   1 | S    | P    |   2 | 1d4   | 1d3   |
-| Dart                      |   5 sp | 1/2 | S    | P    |   2 | 1d3   | 1d2   |
-| Footman's Flail           |  15 gp |  15 | M    | B    |   7 | 1d6+1 | 2d4   |
-| Footman's Mace            |   8 gp |  10 | M    | B    |   7 | 1d6+1 | 1d6   |
-| Footman's Pick            |   8 gp |   6 | M    | P    |   7 | 1d6+1 | 2d4   |
-| Hand or Throwing Axe      |   1 gp |   5 | M    | S    |   4 | 1d6   | 1d4   |
-| Harpoon                   |  20 gp |   6 | L    | P    |   7 | 2d4   | 2d4   |
-| Horseman's Flail          |   8 gp |   5 | M    | B    |   6 | 1d4+1 | 1d4+1 |
-| Horseman's Mace           |   5 gp |   6 | M    | B    |   6 | 1d6   | 1d4   |
-| Horseman's Pick           |   7 gp |   4 | M    | P    |   5 | 1d4+1 | 1d4   |
-| Javelin                   |   5 sp |   2 | S    | P    |   4 | 1d6   | 1d6   |
-| Knife                     |   5 sp | 1/2 | S    | P/S  |   2 | 1d3   | 1d2   |
-| Lance, Heavy Horse        |  15 gp |  15 | L    | P    |   8 | 1d8+1 | 3d6   |
-| Lance, Jousting           |  20 gp |  20 | L    | P    |  10 | 1d3-1 | 1d2-1 |
-| Lance, Light Horse        |   6 gp |   5 | L    | P    |   6 | 1d6   | 1d8   |
-| Lance, Medium Horse       |  10 gp |  10 | L    | P    |   7 | 1d6+1 | 2d6   |
-| Mancatcher                |  30 gp |   8 | L    | —    |   7 | —     | —     |
-| Morning Star              |  10 gp |  12 | M    | B    |   7 | 2d4   | 1d6+1 |
-| Polearm, Awl Pike         |   5 gp |  12 | L    | P    |  13 | 1d6   | 1d12  |
-| Polearm, Bardiche         |   7 gp |  12 | L    | S    |   9 | 2d4   | 2d6   |
-| Polearm, Bec de Corbin    |   8 gp |  10 | L    | P/B  |   9 | 1d8   | 1d10  |
-| Polearm, Bill-Guisarme    |   7 gp |   8 | L    | P/S  |  10 | 2d4   | 1d10  |
-| Polearm, Fauchard         |   8 gp |   7 | L    | P/S  |   8 | 1d6   | 1d8   |
-| Polearm, Fauchard-Fork    |   8 gp |   9 | L    | P/S  |   8 | 1d8   | 1d10  |
-| Polearm, Glaive           |   6 gp |   8 | L    | S    |   8 | 1d6   | 1d10  |
-| Polearm, Glaive-Guisarme  |  10 gp |  10 | L    | P/S  |   9 | 2d4   | 2d6   |
-| Polearm, Guisarme         |   5 gp |   8 | L    | S    |   8 | 2d4   | 1d8   |
-| Polearm, Guisarme-Voulge  |   8 gp |  15 | L    | P/S  |  10 | 2d4   | 2d4   |
-| Polearm, Halberd          |  10 gp |  15 | L    | P/S  |   9 | 1d10  | 2d6   |
-| Polearm, Hook Fauchard    |  10 gp |   8 | L    | P/S  |   9 | 1d4   | 1d4   |
-| Polearm, Lucern Hammer    |   7 gp |  15 | L    | P/B  |   9 | 2d4   | 2d4   |
-| Polearm, Military Fork    |   5 gp |   7 | L    | P    |   7 | 1d8   | 2d4   |
-| Polearm, Partisan         |  10 gp |   8 | L    | P    |   9 | 1d6   | 1d6+1 |
-| Polearm, Ranseur          |   6 gp |   7 | L    | P    |   8 | 2d4   | 2d4   |
-| Polearm, Spetum           |   5 gp |   7 | L    | P    |   8 | 1d6+1 | 2d6   |
-| Polearm, Voulge           |   5 gp |  12 | L    | S    |  10 | 2d4   | 2d4   |
-| Quarterstaff              |      — |   4 | L    | B    |   4 | 1d6   | 1d6   |
-| Scourge                   |   1 gp |   2 | S    | —    |   5 | 1d4   | 1d2   |
-| Sickle                    |   6 sp |   3 | S    | S    |   4 | 1d4+1 | 1d4   |
-| Sling                     |   5 cp |   — | S    | —    |   6 | —     | —     |
-| Sling Bullet              |   1 cp | 1/2 | S    | B    |   — | 1d4+1 | 1d4+1 |
-| Sling Stone               |      — | 1/2 | S    | B    |   — | 1d4   | 1d4   |
-| Spear                     |   8 sp |   5 | M    | P    |   6 | 1d6   | 1d8   |
-| Staff Sling               |   2 sp |   2 | M    | B    |  11 | —     | —     |
-| Bastard Sword             |  25 gp |  10 | M    | S    |   6 | 1d8   | 1d12  |
-| Bastard Sword (2H)        |  25 gp |  10 | M    | S    |   8 | 2d4   | 2d8   |
-| Broad Sword               |  10 gp |   4 | M    | S    |   5 | 2d4   | 1d6+1 |
-| Khopesh                   |  10 gp |   7 | M    | S    |   9 | 2d4   | 1d8   |
-| Long Sword                |  15 gp |   4 | M    | S    |   5 | 1d8   | 1d12  |
-| Scimitar                  |  15 gp |   4 | M    | S    |   5 | 1d8   | 1d8   |
-| Short Sword               |  10 gp |   3 | S    | S    |   3 | 1d6   | 1d8   |
-| Two-Handed Sword          |  50 gp |  15 | L    | P    |  10 | 1d10  | 3d6   |
-| Trident                   |  15 gp |   5 | M    | P    |   7 | 1d6+1 | 3d4   |
-| Warhammer                 |   2 gp |   6 | M    | B    |   4 | 1d4+1 | 1d4   |
-| Whip                      |   1 sp |   2 | M    | —    |   8 | 1d2   | 1     |
+| Item                        | Cost   | Wgt | Size | Type | Spd | S Dam | L Dam |
+|-----------------------------|--------|-----|------|------|-----|-------|-------|
+| Arquebus                    | 500 gp |  10 | M    | P    |  15 | 1d10  | 1d10  |
+| Battle Axe                  |   5 gp |   7 | M    | S    |   7 | 1d8   | 1d8   |
+| Blowgun                     |   5 gp |   2 | L    | —    |   5 | —     | —     |
+| Bow, Composite Long         | 100 gp |   3 | L    | —    |   7 | —     | —     |
+| Bow, Composite Short        |  75 gp |   2 | M    | —    |   6 | —     | —     |
+| Bow, Long                   |  75 gp |   3 | L    | —    |   8 | —     | —     |
+| Bow, Short                  |  30 gp |   2 | M    | —    |   7 | —     | —     |
+| Club                        |      — |   3 | M    | B    |   4 | 1d6   | 1d3   |
+| Crossbow, Hand              |  30 gp |   3 | S    | —    |   5 | —     | —     |
+| Crossbow, Heavy             |  50 gp |  14 | M    | —    |  10 | —     | —     |
+| Crossbow, Light             |  35 gp |   7 | M    | —    |   7 | —     | —     |
+| Dagger                      |   2 gp |   1 | S    | P    |   2 | 1d4   | 1d3   |
+| Dart                        |   5 sp | 1/2 | S    | P    |   2 | 1d3   | 1d2   |
+| Footman's Flail             |  15 gp |  15 | M    | B    |   7 | 1d6+1 | 2d4   |
+| Footman's Mace              |   8 gp |  10 | M    | B    |   7 | 1d6+1 | 1d6   |
+| Footman's Pick              |   8 gp |   6 | M    | P    |   7 | 1d6+1 | 2d4   |
+| Hand or Throwing Axe        |   1 gp |   5 | M    | S    |   4 | 1d6   | 1d4   |
+| Harpoon                     |  20 gp |   6 | L    | P    |   7 | 2d4   | 2d4   |
+| Horseman's Flail            |   8 gp |   5 | M    | B    |   6 | 1d4+1 | 1d4+1 |
+| Horseman's Mace             |   5 gp |   6 | M    | B    |   6 | 1d6   | 1d4   |
+| Horseman's Pick             |   7 gp |   4 | M    | P    |   5 | 1d4+1 | 1d4   |
+| Javelin                     |   5 sp |   2 | S    | P    |   4 | 1d6   | 1d6   |
+| Knife                       |   5 sp | 1/2 | S    | P/S  |   2 | 1d3   | 1d2   |
+| Lance, Heavy Horse{3}       |  15 gp |  15 | L    | P    |   8 | 1d8+1 | 3d6   |
+| Lance, Jousting{3}          |  20 gp |  20 | L    | P    |  10 | 1d3-1 | 1d2-1 |
+| Lance, Light Horse{3}       |   6 gp |   5 | L    | P    |   6 | 1d6   | 1d8   |
+| Lance, Medium Horse{3}      |  10 gp |  10 | L    | P    |   7 | 1d6+1 | 2d6   |
+| Mancatcher{2}               |  30 gp |   8 | L    | —    |   7 | —     | —     |
+| Morning Star                |  10 gp |  12 | M    | B    |   7 | 2d4   | 1d6+1 |
+| Polearm, Awl Pike           |   5 gp |  12 | L    | P    |  13 | 1d6   | 1d12  |
+| Polearm, Bardiche           |   7 gp |  12 | L    | S    |   9 | 2d4   | 2d6   |
+| Polearm, Bec de Corbin      |   8 gp |  10 | L    | P/B  |   9 | 1d8   | 1d10  |
+| Polearm, Bill-Guisarme      |   7 gp |   8 | L    | P/S  |  10 | 2d4   | 1d10  |
+| Polearm, Fauchard           |   8 gp |   7 | L    | P/S  |   8 | 1d6   | 1d8   |
+| Polearm, Fauchard-Fork      |   8 gp |   9 | L    | P/S  |   8 | 1d8   | 1d10  |
+| Polearm, Glaive{1}          |   6 gp |   8 | L    | S    |   8 | 1d6   | 1d10  |
+| Polearm, Glaive-Guisarme{1} |  10 gp |  10 | L    | P/S  |   9 | 2d4   | 2d6   |
+| Polearm, Guisarme           |   5 gp |   8 | L    | S    |   8 | 2d4   | 1d8   |
+| Polearm, Guisarme-Voulge    |   8 gp |  15 | L    | P/S  |  10 | 2d4   | 2d4   |
+| Polearm, Halberd            |  10 gp |  15 | L    | P/S  |   9 | 1d10  | 2d6   |
+| Polearm, Hook Fauchard      |  10 gp |   8 | L    | P/S  |   9 | 1d4   | 1d4   |
+| Polearm, Lucern Hammer      |   7 gp |  15 | L    | P/B  |   9 | 2d4   | 2d4   |
+| Polearm, Military Fork{1}   |   5 gp |   7 | L    | P    |   7 | 1d8   | 2d4   |
+| Polearm, Partisan           |  10 gp |   8 | L    | P    |   9 | 1d6   | 1d6+1 |
+| Polearm, Ranseur            |   6 gp |   7 | L    | P    |   8 | 2d4   | 2d4   |
+| Polearm, Spetum             |   5 gp |   7 | L    | P    |   8 | 1d6+1 | 2d6   |
+| Polearm, Voulge             |   5 gp |  12 | L    | S    |  10 | 2d4   | 2d4   |
+| Quarterstaff                |      — |   4 | L    | B    |   4 | 1d6   | 1d6   |
+| Scourge                     |   1 gp |   2 | S    | —    |   5 | 1d4   | 1d2   |
+| Sickle                      |   6 sp |   3 | S    | S    |   4 | 1d4+1 | 1d4   |
+| Sling                       |   5 cp |   — | S    | —    |   6 | —     | —     |
+| Spear                       |   8 sp |   5 | M    | P    |   6 | 1d6   | 1d8   |
+| Staff Sling                 |   2 sp |   2 | M    | B    |  11 | —     | —     |
+| Sword, Bastard              |  25 gp |  10 | M    | S    |   6 | 1d8   | 1d12  |
+| Sword, Bastard (2H)         |  25 gp |  10 | M    | S    |   8 | 2d4   | 2d8   |
+| Sword, Broad                |  10 gp |   4 | M    | S    |   5 | 2d4   | 1d6+1 |
+| Sword, Khopesh              |  10 gp |   7 | M    | S    |   9 | 2d4   | 1d8   |
+| Sword, Long                 |  15 gp |   4 | M    | S    |   5 | 1d8   | 1d12  |
+| Sword, Scimitar             |  15 gp |   4 | M    | S    |   5 | 1d8   | 1d8   |
+| Sword, Short                |  10 gp |   3 | S    | S    |   3 | 1d6   | 1d8   |
+| Sword, Two-Handed           |  50 gp |  15 | L    | S    |  10 | 1d10  | 3d6   |
+| Trident                     |  15 gp |   5 | M    | P    |   7 | 1d6+1 | 3d4   |
+| Warhammer                   |   2 gp |   6 | M    | B    |   4 | 1d4+1 | 1d4   |
+| Whip                        |   1 sp |   2 | M    | —    |   8 | 1d2   | 1     |
+
+```
+{1} The weapon inflicts double damage against charging creatures of L or greater.
+{2} This weapon can dismount a rider on a successful hit.
+{3} This weapon inflicts double damage when used from the back of a charging mount.
+
+```
+
+| Weapon                      | Cost   | Size | Type | S Dam | L Dam |
+|-----------------------------|-------:|------|------|-------|-------|
+| Blowgun, Barbed Dart        |   1 sp | S    | P    | 1d3   | 1d2   |
+| Blowgun, Needle             |   2 gp | S    | P    | 1     | 1     |
+| Bow, Arrow, Flight          |   3 sp | S    | P    | 1d6   | 1d6   |
+| Bow, Arrow, Sheaf           |   3 sp | S    | P    | 1d8   | 1d8   |
+| Crossbow, Quarrel, Hand     |   1 gp | S    | P    | 1d3   | 1d2   |
+| Crossbow, Quarrel, Heavy    |   2 sp | S    | P    | 1d4+1 | 1d6+1 |
+| Crossbow, Quarrel, Light    |   1 sp | S    | P    | 1d4   | 1d4   |
+| Sling Bullet                |   1 cp | S    | B    | 1d4+1 | 1d4+1 |
+| Sling Stone                 |   —    | S    | B    | 1d4   | 1d4   |
+
+**MISSILE WEAPON RANGES**
+
+| Weapon                       | ROF | S.Rng | M.Rng | L.Rng |
+| ---------------------------- | --- | ----: | ----: | ----: |
+| Arquebus                     | 1/3 |   5   |  15   |  21   |
+| Blowgun                      | 2/1 |   1   |   2   |   3   |
+| Comp. long bow, flight arrow | 2/1 |   6   |  12   |  21   |
+| Comp. long bow, sheaf arrow  | 2/1 |   4   |   8   |  17   |
+| Comp. short bow              | 2/1 |   5   |  10   |  18   |
+| Longbow, flight arrow        | 2/1 |   7   |  14   |  21   |
+| Longbow, sheaf arrow         | 2/1 |   5   |  10   |  17   |
+| Short bow                    | 2/1 |   5   |  10   |  15   |
+| Club                         |  1  |   1   |   2   |   3   |
+| Hand crossbow                |  1  |   2   |   4   |   6   |
+| Heavy crossbow               | 1/2 |   8   |  16   |  24   |
+| Light crossbow               |  1  |   6   |  12   |  18   |
+| Dagger                       | 2/1 |   1   |   2   |   3   |
+| Dart                         | 3/1 |   1   |   2   |   4   |
+| Hammer                       |  1  |   1   |   2   |   3   |
+| Hand axe                     |  1  |   1   |   2   |   3   |
+| Harpoon                      |  1  |   1   |   2   |   3   |
+| Javelin                      |  1  |   2   |   4   |   6   |
+| Knife                        | 2/1 |   1   |   2   |   3   |
+| Sling bullet                 |  1  |   5   |  10   |  20   |
+| Sling stone                  |  1  |   4   |   8   |  16   |
+| Spear                        |  1  |   1   |   2   |   3   |
+| Staff sling bullet           | 2/1 |   —   |  3-6  |   9   |
+| Staff sling stone            | 2/1 |   —   |  3-6  |   9   |
+
+### **Armor***
+
+| Type              | AC  | Cost      | lb. |
+| ----------------- | --- | --------: | --: |
+| Banded mail       |  4  |    200 gp |  35 |
+| Brigandine        |  6  |    120 gp |  35 |
+| Bronze plate mail |  4  |    400 gp |  45 |
+| Chain mail        |  5  |     75 gp |  40 |
+| Field plate       |  2  |  2,000 gp |  60 |
+| Full plate        |  1  | 10,000 gp |  70 |
+| Helmet, Great     |     |     30 gp |  10 |
+| Helmet, Basinet   |     |      8 gp |   5 |
+| Hide              |  6  |     15 gp |  30 |
+| Leather           |  8  |      5 gp |  15 |
+| Padded            |  8  |      4 gp |  10 |
+| Plate mail        |  3  |    600 gp |  50 |
+| Ring mail         |  7  |    100 gp |  30 |
+| Scale mail        |  6  |    120 gp |  40 |
+| Shield, Body      | -1  |     10 gp |  15 |
+| Shield, Buckler   | -1  |      1 gp |   3 |
+| Shield, Medium    | -1  |      7 gp |  10 |
+| Shield, Small     | -1  |      3 gp |   5 |
+| Splint mail       |  4  |     80 gp |  40 |
+| Studded leather   |  7  |     20 gp |  25 |
 
 
-
-
-
-
-
-
-
-
-
-### Weapons
+## Weapons
 - Melee weapons
 - Missile weapons
 - Ammunition
 
 ## Combat
-- Attack rolls and THAC0
-- Initiative
-- Movement in combat
-- Melee and missile combat
-- Nonlethal combat
-- Saving throws
-- Healing and injury
 
-## Saving Throws
-- Paralyzation, poison, death magic
-- Rod, staff, wand
-- Petrification, polymorph
-- Breath weapon
-- Spell
+### Attack rolls and THAC0
+
+|         |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| ------- | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
+| Priest  | 20 | 20 | 20 | 18 | 18 | 18 | 16 | 16 | 16 | 14 | 14 | 14 | 12 | 12 | 12 |
+| Rogue   | 20 | 20 | 19 | 19 | 18 | 18 | 17 | 17 | 16 | 16 | 15 | 15 | 14 | 14 | 13 |
+| Warrior | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 |  9 |  8 |  7 |  6 |
+| Wizard  | 20 | 20 | 20 | 19 | 19 | 19 | 18 | 18 | 18 | 17 | 17 | 17 | 16 | 16 | 16 |
+
+Priest:  2/3  
+Rogue:   1/2  
+Warrior: 1/1  
+Wizard:  1/3  
+
+### **COMBAT MODIFIERS**
+
+| Situation                  | Attack Roll Modifier |
+| -------------------------- | -------------------- |
+| Attacker on higher ground  | +1                   |
+| Defender invisible         | -4                   |
+| Defender off-balance       | +2                   |
+| Defender sleeping or held  | Automatic\*          |
+| Defender stunned or prone  | +4                   |
+| Defender surprised         | +1                   |
+| Missile fire, long range   | -5                   |
+| Missile fire, medium range | -2                   |
+| Rear attack                | +2                   |
+
+```
+*If  the  defender is  attacked  during  the course of  a normal melee, the
+attack automatically hits and causes normal damage. If no other fighting is
+going on (i.e., all others have been slain or driven off), the defender can
+be slain automatically.
+```
+### Initiative
+
+### **Table 55: STANDARD MODIFIERS TO INITIATIVE**
+
+| Specific Situation                 | Modifier |
+| ---------------------------------- | :------: |
+| Hasted                             |    -2    |
+| Slowed                             |    +2    |
+| On higher ground                   |    -1    |
+| Set to receive a charge            |    -2    |
+| Wading or slippery footing         |    +2    |
+| Wading in deep water               |    +4    |
+| Foreign environment\*              |    +6    |
+| Hindered (tangled, climbing, held) |    +3    |
+| Waiting (see p. 112)               |    +1    |
+
+```
+* This applies to situations in which the party is in a completely different
+environment (swimming underwater without the aid of a ring of free movement,
+for example).
+```
+
+### Movement in combat
+
+### Melee and missile combat
+
+### Nonlethal combat
+
+### Healing and injury
+
+### Turning Undead
+
+
+## Saving throws
+
+### **Wizards**
+
+| Saving Throw Category                |  1 |  6 | 11 | 16 | 21 |
+| ------------------------------------ | -- | -- | -- | -- | -- |
+| Paralyzation, Poison, or Death Magic | 14 | 13 | 11 | 10 |  8 |
+| Rod, Staff, or Wand                  | 11 |  9 |  7 |  5 |  3 |
+| Petrification or Polymorph`*`        | 13 | 11 |  9 |  7 |  5 |
+| Breath Weapon`**`                    | 15 | 13 | 11 |  9 |  7 |
+| Spell`***`                           | 12 | 10 |  8 |  6 |  4 |
+
+### **Warriors**
+
+| Saving Throw Category                |  0 |  1 |  3 |  5 |  7 |  9 | 11 | 13 | 15 | 17 |
+| ------------------------------------ | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Paralyzation, Poison, or Death Magic | 16 | 14 | 13 | 11 | 10 |  8 |  7 |  5 |  4 |  3 |
+| Rod, Staff, or Wand                  | 18 | 16 | 15 | 13 | 12 | 10 |  9 |  7 |  6 |  5 |
+| Petrification or Polymorph`*`        | 17 | 15 | 14 | 12 | 11 |  9 |  8 |  6 |  5 |  4 |
+| Breath Weapon`**`                    | 20 | 17 | 16 | 13 | 12 |  9 |  8 |  5 |  4 |  4 |
+| Spell`***`                           | 19 | 17 | 16 | 14 | 13 | 11 | 10 |  8 |  7 |  6 |
+
+### **Rogues**
+
+| Saving Throw Category                |  1 |  5 |  9 | 13 | 17 | 21 |
+| ------------------------------------ | -- | -- | -- | -- | -- | -- |
+| Paralyzation, Poison, or Death Magic | 13 | 12 | 11 | 10 |  9 |  8 |
+| Rod, Staff, or Wand                  | 14 | 12 | 10 |  8 |  6 |  4 |
+| Petrification or Polymorph`*`        | 12 | 11 | 10 |  9 |  8 |  7 |
+| Breath Weapon`**`                    | 16 | 15 | 14 | 13 | 12 | 11 |
+| Spell`***`                           | 15 | 13 | 11 |  9 |  7 |  5 |
+
+### **Priests**
+
+| Saving Throw Category                |  1 |  4 |  7 | 10 | 13 | 16 | 19 |
+| ------------------------------------ | -- | -- | -- | -- | -- | -- | -- |
+| Paralyzation, Poison, or Death Magic | 10 |  9 |  7 |  6 |  5 |  4 |  2 |
+| Rod, Staff, or Wand                  | 14 | 13 | 11 | 10 |  9 |  8 |  6 |
+| Petrification or Polymorph`*`        | 13 | 12 | 10 |  9 |  8 |  7 |  5 |
+| Breath Weapon`**`                    | 16 | 15 | 13 | 12 | 11 | 10 |  8 |
+| Spell`***`                           | 15 | 14 | 12 | 11 | 10 |  9 |  7 |
+
+```
+* Excludes dragon breath.
+** Excludes polymorph wand attacks.
+*** Excludes magical attack forms that require a save vs. petrification or polymorph.
+```
+
 
 ## Vision
-- Visibility ranges
-- Light sources
-- Infravision
+
+### Visibility ranges
+
+### Light sources
+
+### Infravision
 
 ## Time & Movement
-- Base movement rates
-- Overland movement
-- Swimming
-- Climbing
 
+### Base movement rates
+
+### Overland movement
+
+### Swimming
+
+### Climbing
 
 ### Table 65: Base Climbing Success Rates
 | Character Type | Base Chance |
@@ -1673,5 +1817,3 @@ Coins represent the monetary system.
 | Thieves | Double listed rates |
 | Rappelling | Normal movement |
 
-## Note
-A complete reconstruction of Tables 1-67 requires full OCR extraction of all table pages from the source PDF. The currently accessible OCR layer exposes only portions of Tables 1 and 65-67 and references to tables 2-64.

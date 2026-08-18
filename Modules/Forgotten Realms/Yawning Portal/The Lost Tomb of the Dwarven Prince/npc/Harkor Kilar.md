@@ -1,4 +1,4 @@
-**Name**:Harkor kilar    **Race**:Human    **Class**:Fighter    **Lvl**:10    **Alignment**:LN  
+**Name**:Harkor Kilar    **Race**:Human    **Class**:Fighter    **Lvl**:10    **Alignment**:LN  
 **Attributes**    STR:17  DEX:15  CON:15  INT:10  WIS:11  CHA:14  
 **Saves**    Para/Poison/DM:10   Rod/Staff/Wand:11   Petri/Poly:12   Breath:14   Spell:13  
 **Languages**:2  
@@ -8,10 +8,10 @@
 
 | Weapon Name               | Hit | Speed | S/M Damage | L Damage |
 |---------------------------|-----|-------|------------|----------|
-| Frost Brand +2 Long Sword | +3  | 5     | 1d8+3      | 1d12+3   |
+| +2 Frost Brand Long Sword | +3  | 5     | 1d8+3      | 1d12+3   |
 | Dagger                    | +1  | 2     | 1d4+1      | 1d3+1    |
 
-# +2 Frost Brand Long Sword; +5 hit/dmg vs fire; 1/2 fire dmg; extinguishes fire within 10'
+> +2 Frost Brand Long Sword; +5 hit/dmg vs fire; 1/2 fire dmg; extinguishes fire within 10'
 
 | Ranged             | Hit | ROF | Short | Medium | Long | S/M Dmg  | L Dmg  | Count |
 |--------------------|-----|-----|-------|--------|------|----------|--------|-------|
