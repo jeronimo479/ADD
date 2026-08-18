@@ -22,7 +22,8 @@
 | 18/91-99      | +2        | +5          | 235           | 380       | 15 (3)     | 35%                    |
 | 18/00         | +3        | +6          | 335           | 480       | 16 (6)     | 40%                    |
 
-> Only Fighters can have exception strength 18/XX% scores.
+> Only Warriors can have exceptional strength 18/XX% scores.
+
 ### Dexterity
 
 | Ability Score | Reaction Adj. | Missile Attack Adj. | Defensive Adj. |
@@ -56,11 +57,11 @@
 | 14            | 0                    | 88%          | 92%                   | 0           | Nil         |
 | 15            | +1                   | 90%          | 94%                   | 0           | Nil         |
 | 16            | +2                   | 95%          | 96%                   | 0           | Nil         |
-| 17            | +2 (+3)\*            | 97%          | 98%                   | 0           | Nil         |
-| 18            | +2 (+4)\*            | 99%          | 100%                  | 0           | Nil         |
-| 19            | +2 (+5)\*            | 99%          | 100%                  | +1          | Nil         |
+| 17            | +2 (+3)†             | 97%          | 98%                   | 0           | Nil         |
+| 18            | +2 (+4)†             | 99%          | 100%                  | 0           | Nil         |
+| 19            | +2 (+5)†             | 99%          | 100%                  | +1          | Nil         |
 
-\* Parenthetical bonus applies to warriors only. All other classes receive a maximum bonus of +2 per die.
+† Parenthetical bonus applies to warriors only. All other classes receive a maximum bonus of +2 per die.
 
 ### Intelligence
 
@@ -129,21 +130,16 @@
 
 ## Races
 
-### Human 12"
-
-Nothing to see here.
-
 ***
-### Dwarf  6"
-+1 Constitution, -1 Charisma at character creation. A character of the dwarven 
-race can be a cleric, a fighter, or a thief. He can also choose to be a fighter/
-cleric or fighter/thief.
+### Dwarf
 
-Dwarves automatically know Common and Dwarvish. If bonus languages are used, a
-dwarf may learn gnome, goblin, kobold, orc, and hobgoblin.
-
-Dwarves gain a Constitution-based bonus on saving throws against poison and 
-magical wands, staves, rods, and spells.
+**Movement**: 6"  
+**Ability Adjustments**: +1 Constitution, -1 Charisma  
+**Vision**: Infravision 60 ft.  
+**Class**: Cleric, Fighter, Thief, Fighter/Cleric, Fighter/Thief  
+**Languages**: Common, Dwarvish; Gnome, Goblin, Kobold, Orc, Hobgoblin  
+**Saving Throw Bonuses**: Constitution-based bonus vs. poison, wands, staves,
+rods, and spells  
 
 | Constitution Score | Saving Throw Bonus |
 |--------------------|--------------------|
@@ -153,75 +149,47 @@ magical wands, staves, rods, and spells.
 | 14-17              | +4                 |
 | 18-19              | +5                 |
 
-All magical items that are not specifically suited to the character’s class have 
-a 20 percent chance to malfunction when used by a dwarf. Dwarven infravision 
-enables them to see up to 60 feet in the dark.  
+**Combat Bonuses**:
+- +1 attack vs. Goblins, Hobgoblins, and Orcs.
+- Giants, Ogres, Trolls, and Titans suffer -4 to attack dwarves.
 
-| Chance  | Ability                                     |
-|---------|---------------------------------------------|
-| 5/6     | Detect grade or slope in passage            |
-| 5/6     | Detect new tunnel or passage construction   |
-| 4/6     | Detect sliding or shifting walls or rooms   |
-| 3/6     | Detect stonework traps, pits, and deadfalls |
-| 3/6     | Determine approximate depth underground     |
-
-In melee, dwarves gain a +1 bonus to attack rolls against goblins, hobgoblins, 
-and orcs.
-
-Because of their small size and combat experience against larger enemies, giants,
-ogres, trolls, and titans suffer a -4 penalty to attack rolls against dwarves.
-
-Dwarven infravision enables them to see up to 60 feet in the dark.
+**Special Abilities**: 20% malfunction chance when using magical items not suited to class.  
+**Detections**:
+- Detect grade or slope in passage (5/6)
+- Detect new tunnel or passage construction (5/6)
+- Detect sliding or shifting walls or rooms (4/6)
+- Detect stonework traps, pits, and deadfalls (3/6)
+- Determine approximate depth underground (3/6)
 
 ***
-### Elf    12"
+### Elf
 
-+1 Dexterity, -1 Constitution at character creation. A character of the elven
-race can be a cleric, fighter, mage, thief, or ranger. An elf can also choose
-to be a fighter/mage, fighter/thief, mage/thief, or fighter/mage/thief.
+**Movement**: 12"  
+**Ability Adjustments**: +1 Dexterity, -1 Constitution  
+**Vision**: Infravision 60 ft.  
+**Class**: Cleric, Fighter, Mage, Thief, Ranger, Fighter/Mage, Fighter/Thief, Mage/Thief, Fighter/Mage/Thief  
+**Languages**: Common, Elvish; Gnome, Halfling, Goblin, Hobgoblin, Orc, Gnoll  
+**Saving Throw Bonuses**: +2 vs. charm effects; 90% resistance to sleep and charm-related spells  
+**Combat Bonuses**: +1 attack with bows, short swords, and long swords  
+**Special Abilities**:
+- Opponents suffer -4 to surprise rolls when conditions are met
+- Penalty reduced to -2 if opening a door or screen before attacking
+- Require only 4 hours of rest each day
 
-Elves automatically know Common and Elvish. If bonus languages are used, an elf
-may learn gnome, halfling, goblin, hobgoblin, orc, and gnoll.
-
-Elves have a 90 percent resistance to sleep and all charm-related spells. In
-addition, they receive a +2 bonus on saving throws against charm effects.
-
-When using a bow of any type, or a short or long sword, elves gain a +1 bonus
-to attack rolls.
-
-Elven infravision enables them to see up to 60 feet in the dark.
-
-Elves are difficult to surprise when alone or accompanied only by elves and/or
-halflings, provided they are not wearing metal armor. Under these conditions,
-opponents suffer a -4 penalty to surprise rolls. If an elf must open a door or
-screen before attacking, the penalty is reduced to -2.
-
-Merely passing within 10 feet of a concealed door gives an elf a 1-in-6 chance
-to notice it. Active searches improve the chance to find concealed doors and
-allow elves to discover secret doors.
-
-| Chance  | Ability                                        |
-|---------|------------------------------------------------|
-| 1/6 | Detect concealed door while passing within 10 feet |
-| 2/6 | Detect concealed door during active search         |
-| 2/6 | Detect secret door during active search            |
-
-Elves require only 4 hours of rest each day.  
+**Detections**:
+- Detect concealed door while passing within 10 ft. (1/6)
+- Detect concealed door during active search (2/6)
+- Detect secret door during active search (2/6)
 
 ***
-### Gnome   6"
+### Gnome
 
-+1 Intelligence, -1 Wisdom at character creation. A character of the gnomish
-race can be a fighter, thief, illusionist, fighter/thief, illusionist/thief,
-or fighter/illusionist.
-
-Gnomes automatically know Common, Dwarvish, and Gnomish. If bonus languages
-are used, a gnome may learn halfling, goblin, kobold, and the simple speech
-of burrowing mammals such as moles, badgers, weasels, shrews, and ground
-squirrels.
-
-Like dwarves, gnomes gain a Constitution-based bonus on saving throws against
-magical wands, staves, rods, and spells.
+**Movement**: 6"  
+**Ability Adjustments**: +1 Intelligence, -1 Wisdom  
+**Vision**: Infravision 60 ft.  
+**Class**: Fighter, Thief, Illusionist, Fighter/Thief, Illusionist/Thief, Fighter/Illusionist  
+**Languages**: Common, Dwarvish, Gnomish; Halfling, Goblin, Kobold, burrowing mammal speech  
+**Saving Throw Bonuses**: Constitution-based bonus vs. wands, staves, rods, and spells
 
 | Constitution Score | Saving Throw Bonus |
 |--------------------|--------------------|
@@ -231,68 +199,46 @@ magical wands, staves, rods, and spells.
 | 14-17              | +4                 |
 | 18-19              | +5                 |
 
-All magical items that are not specifically suited to the character's class
-have a 20 percent chance to malfunction when used by a gnome. This does not
-normally apply to magical weapons, armor, shields, illusionist items, or items
-that duplicate thieving abilities.
+**Combat Bonuses**: +1 attack vs. Goblins and Kobolds; Giants, Bugbears, Ogres,
+Trolls, Ogre Magi, and Titans suffer -4 to attack gnomes  
+**Special Abilities**:
+- 20% malfunction chance when using magical items not suited to class
+- Exception for most magical weapons, armor, shields, illusionist items, and thief-type items
 
-In melee, gnomes gain a +1 bonus to attack rolls against kobolds and goblins.
-
-Because of their small size and combat skill against larger foes, giants,
-bugbears, ogres, trolls, ogre magi, and titans suffer a -4 penalty to attack
-rolls against gnomes.
-
-Gnomish infravision enables them to see up to 60 feet in the dark.
-
-Being tunnel dwellers of exceptional merit, gnomes can detect the following
-when underground. The gnome must stop and concentrate for one round to use any
-of these abilities.
-
-| Chance | Ability |
-|---------|---------|
-| 5/10 | Detect approximate direction |
-| 5/10 | Detect grade or slope in passage |
-| 7/10 | Detect unsafe walls, ceiling, or floors |
-| 4/10 | Determine approximate depth underground |
-| 3/6 | Determine approximate direction underground |
+**Detections**:
+- Detect grade or slope in passage (5/6)
+- Detect unsafe walls, ceiling, or floors (7/10)
+- Determine approximate depth underground (4/6)
+- Determine approximate direction underground (3/6)
 
 ***
-### Half-Elf  12"
+### Half-Elf
 
-A character of the half-elven race can be a cleric, druid, fighter, ranger, mage,
-specialist wizard, thief, or bard. A half-elf can also choose from the following 
-multiclass combinations: cleric/fighter, cleric/ranger, cleric/mage, cleric/thief,
-druid/fighter, druid/ranger, fighter/mage, fighter/thief, fighter/mage/thief,
-and mage/thief.
-
-They automatically know Common and Elvish. If bonus languages are used, they may
-learn gnome, halfling, goblin, hobgoblin, orc, and gnoll.
-
-Half-elves have a 30 percent resistance to sleep and all charm-related spells.
-
-Half-elven infravision enables them to see up to 60 feet in the dark.
-
-Merely passing within 10 feet of a concealed door gives a half-elf a 1-in-6
-chance to notice it. Active searches improve the chance to find concealed doors
-and allow half-elves to discover secret doors.
-
-| Chance  | Ability                                            |
-|---------|----------------------------------------------------|
-| 1/6     | Detect concealed door while passing within 10 feet |
-| 2/6     | Detect concealed door during active search         |
-| 2/6     | Detect secret door during active search            |
+**Movement**: 12"  
+**Ability Adjustments**: None  
+**Vision**: Infravision 60 ft.  
+**Class**: Cleric, Druid, Fighter, Ranger, Mage, Thief, Bard, Cleric/Fighter,
+Cleric/Ranger, Cleric/Mage, Cleric/Thief, Druid/Fighter, Druid/Ranger,
+Fighter/Mage, Fighter/Thief, Fighter/Mage/Thief, Mage/Thief  
+**Languages**: Common, Elvish; Gnome, Halfling, Goblin, Hobgoblin, Orc, Gnoll  
+**Saving Throw Bonuses**: 30% resistance to sleep and charm-related spells  
+**Combat Bonuses**: None  
+**Special Abilities**: None  
+**Detections**:
+- Detect concealed door while passing within 10 ft. (1/6)
+- Detect concealed door during active search (2/6)
+- Detect secret door during active search (2/6)
 
 ***
-### Halfling  6"
+### Halfling
 
--1 Strength, +1 Dexterity at character creation. A character of the halfling
-race can be a cleric, fighter, thief, or fighter/thief.
-
-Halflings automatically know Common and Halfling. If bonus languages are used,
-a halfling may learn Dwarvish, Elvish, Gnomish, Goblin, Orc.
-
-Like dwarves and gnomes, halflings gain a Constitution-based bonus on saving
-throws against poison and magical wands, staves, rods, and spells.
+**Movement**: 6"  
+**Ability Adjustments**: -1 Strength, +1 Dexterity  
+**Vision**: Infravision 60 ft. (90 ft. in starlight or moonlight)  
+**Class**: Cleric, Fighter, Thief, Fighter/Thief  
+**Languages**: Common, Halfling; Dwarvish, Elvish, Gnomish, Goblin, Orc  
+**Saving Throw Bonuses**: Constitution-based bonus vs. poison, wands, staves,
+rods, and spells
 
 | Constitution Score | Saving Throw Bonus |
 |--------------------|--------------------|
@@ -302,34 +248,32 @@ throws against poison and magical wands, staves, rods, and spells.
 | 14-17              | +4                 |
 | 18-19              | +5                 |
 
-Halflings are natural marksmen. They gain a +1 bonus to attack rolls when using
-thrown weapons and slings.
+**Combat Bonuses**:
+- +1 attack with thrown weapons and slings
+- Opponents suffer -4 to surprise rolls outdoors when conditions are met
+- Penalty reduced to -2 if opening a door or screen before attacking
 
-A halfling gains a bonus to surprise opponents while outdoors. The halfling
-must be alone, or accompanied only by other halflings, and at least 90 feet
-from any non-halfling. Under these conditions, opponents suffer a -4 penalty
-to surprise rolls. If a door or other screen must be opened before attacking,
-the penalty is reduced to -2.
+**Special Abilities**: None  
+**Detections**:
+- Determine whether a passage slopes upward or downward (1/6)
+- Determine approximate direction underground (2/6)
+- Determine approximate depth underground (2/6)
 
-Halflings have infravision, allowing them to see in the dark.
+***
+### Human
 
-| Light Conditions       | Range |
-|------------------------|-------|
-| Normal Infravision     | 60 ft |
-| Starlight or Moonlight | 90 ft |
-
-Halflings possess a natural talent for judging terrain and underground
-conditions. The halfling must concentrate on the desired information while
-excluding all other distractions.
-
-| Chance | Ability |
-|---------|---------|
-| 1/6 | Determine whether a passage slopes upward or downward |
-| 2/6 | Determine approximate direction underground           |
-| 2/6 | Determine approximate depth underground               |
-
+**Movement**: 12"  
+**Ability Adjustments**: None  
+**Vision**: Normal  
+**Class**: Any class; no racial restrictions  
+**Languages**: Common  
+**Saving Throw Bonuses**: None  
+**Combat Bonuses**: None  
+**Special Abilities**: None  
+**Detections**: None  
 
 ## Classes
+
 ### Warrior
 
 The warrior group encompasses the character classes whose primary role is
@@ -382,18 +326,18 @@ additional weapon proficiency slots to a specific weapon, a fighter gains
 greater accuracy, increased damage, and additional attacks with that weapon.
 
 To specialize, a fighter must first be proficient with the weapon and then spend
-one additional weapon proficiency slot. 
+one additional weapon proficiency slot.
 
-A fighter specialized in a melee weapon gains +1 to attack and +2 to damage 
-rolls. This costs 1 extra profficiency.
+A fighter specialized in a melee weapon gains +1 to attack and +2 to damage
+rolls. This costs 1 extra proficiency.
 
 A fighter specialized with a bow gains a point-blank range (6-30') that adds +2
-to attack rolls. This costs 2 extra profficiency slots.
+to attack rolls. This costs 2 extra proficiency slots.
 
 A fighter specialized in crossbows gain a point-blank range (6-60') that adds +2
-to attack rolls. This costs 1 extra profficiency slot.
+to attack rolls. This costs 1 extra proficiency slot.
 
-If the bow or crossbow is ready at the start of a round, they may fire before 
+If the bow or crossbow is ready at the start of a round, they may fire before
 initiative rolls.
 
 Specialist Attacks Per Round
@@ -428,16 +372,16 @@ atonement is made.
 
 A paladin receives the following benefits:
 
-**Detect Evil**: Concentrate to detect evil intent up to 60 feet away  
-**Divine Saving Throws**: +2 bonus to all saving throws  
-**Disease Immunity**: Immune to all forms of disease  
-**Lay on Hands**: Heal 2 hit points per experience level per day  
-**Cure Disease**: Cure disease once per week for every 5 levels  
+**Detect Evil**: Concentrate to detect evil intent up to 60 feet away.  
+**Divine Saving Throws**: +2 bonus to all saving throws.  
+**Disease Immunity**: Immune to all forms of disease.  
+**Lay on Hands**: Heal 2 hit points per experience level per day.  
+**Cure Disease**: Cure disease once per week for every 5 levels.  
 **Protection from Evil**: Constant 10-foot radius aura. A paladin's aura of
 protection causes evil creatures within 10 feet to suffer a -1 penalty to
 attack rolls.  
-**Turn Undead**: Functions as a cleric two levels lower  
-**Holy Sword**: Projects a dispel magic effect when wielded  
+**Turn Undead**: Functions as a cleric two levels lower.  
+**Holy Sword**: Projects a dispel magic effect when wielded.  
 
 A paladin can call a special warhorse upon reaching 4th level. The mount is an
 exceptional and loyal creature that serves only the paladin.
@@ -495,8 +439,8 @@ Neutral, or Chaotic Neutral.
 
 Rangers can use any weapon and wear any armor.
 
-When wearing studded leather armor or lighter, a ranger can fight with two
-weapons with no penalty to attack rolls.
+The ranger ignores normal two-weapon penalties while wearing studded leather
+armor or lighter.
 
 Rangers are skilled woodsmen and automatically possess the Tracking ability
 without spending proficiency slots. Their tracking ability improves as they
@@ -530,13 +474,13 @@ Ranger Abilities
 | 10           | 63%            | 78%            | 3             | 2   | 1   | -   |
 | 11           | 70%            | 86%            | 4             | 2   | 2   | -   |
 | 12           | 77%            | 94%            | 5             | 2   | 2   | 1   |
-| 13           | 85%            | 99%\*          | 6             | 3   | 2   | 1   |
-| 14           | 93%            | 99%\*          | 7             | 3   | 2   | 2   |
-| 15           | 99%\*          | 99%\*          | 8             | 3   | 3   | 2   |
-| 16           | 99%\*          | 99%\*          | 9             | 3   |`3**`| 3   |
+| 13           | 85%            | 99%†           | 6             | 3   | 2   | 1   |
+| 14           | 93%            | 99%†           | 7             | 3   | 2   | 2   |
+| 15           | 99%†           | 99%†           | 8             | 3   | 3   | 2   |
+| 16           | 99%†           | 99%†           | 9             | 3   | 3‡  | 3   |
 
-\* Maximum percentile score  
-\** Maximum spell ability
+† Maximum percentile score  
+‡ Maximum spell ability
 
 A ranger must always strive to remain good. If a ranger intentionally commits
 an evil act, the ranger loses all ranger abilities and becomes a fighter of the
@@ -622,7 +566,7 @@ school of magic, gaining advantages within that school while giving up access
 to one or more opposing schools.
 
 The nine schools of magic are: Abjuration, Alteration, Conjuration/Summoning,
-Enchantmen/Charm, Greater Divination, Illusion, Invocation/Evocation, Necromancy,
+Enchantment/Charm, Greater Divination, Illusion, Invocation/Evocation, Necromancy,
 and Lesser Divination.
 
 #### Specialist Wizard
@@ -730,7 +674,7 @@ Priest Experience Levels
 
 Priest Spell Progression
 
-| Priest Level | 1st | 2nd | 3rd | 4th | 5th | 6th* | 7th** |
+| Priest Level | 1st | 2nd | 3rd | 4th | 5th | 6th† | 7th‡ |
 |--------------|-----|-----|-----|-----|-----|------|-------|
 | 1            | 1   | -   | -   | -   | -   | -    | -     |
 | 2            | 2   | -   | -   | -   | -   | -    | -     |
@@ -753,10 +697,8 @@ Priest Spell Progression
 | 19           | 9   | 9   | 8   | 8   | 6   | 4    | 2     |
 | 20           | 9   | 9   | 9   | 8   | 7   | 5    | 2     |
 
-```
-* Usable only by priests with Wisdom 17 or higher.  
-** Usable only by priests with Wisdom 18 or higher.
-```
+† Usable only by priests with Wisdom 17 or higher.  
+‡ Usable only by priests with Wisdom 18 or higher.
 
 Priest spells are organized into sixteen spheres:
 
@@ -979,7 +921,7 @@ as many oozes, slimes, jellies, and similar creatures.
 
 **Pick Pockets**
 : Pick pockets allows a thief to remove small items from a victim without being
-noticed. Failure does not automatically alert the victim. A separate check 
+noticed. Failure does not automatically alert the victim. A separate check
 determines whether the attempt is detected.
 
 **Open Locks**
@@ -1041,8 +983,8 @@ to earned experience points.
 Bards may be of any alignment except lawful good. A bard must remain at least
 partially neutral to successfully fulfill the role.
 
-Bards can use any weapon and wear any armor, including chain mail, but cannot
-use shields.
+Bards can use any weapon and wear any armor up to, and including chain mail, but
+cannot use shields.
 
 All bards are proficient singers, musicians, storytellers, poets, and
 entertainers. They begin play knowing how to play one musical instrument. Each
@@ -1154,14 +1096,14 @@ scrolls according to the normal rules governing arcane spellcasting.
 
 ## Proficiencies
 
-| Group   | Initial<br> Weapons | Weapon<br> per Level | Weapon<br>Penalty | Initial<br> Nonweapons | Nonweapon<br> per Level |
+| Group  | Initial Weapons | Weapon per Level | Weapon Penalty | Initial Nonweapons | Nonweapon per Level |
 |---------|----------------|------------------|----------------|-------------------|--------------------|
 | Warrior | 4              | 3                | -2             | 3                 | 3                  |
 | Wizard  | 1              | 6                | -5             | 4                 | 3                  |
 | Priest  | 2              | 4                | -3             | 4                 | 3                  |
 | Rogue   | 2              | 4                | -3             | 3                 | 4                  |
 
-### Nonweapon Profficiencies
+### Nonweapon Proficiencies
 
 | Proficiency         | Classes | Slots | Ability      | Check | Description                           |
 |:--------------------|:-------:|:-----:|:-------------|:-----:|:--------------------------------------|
@@ -1239,7 +1181,7 @@ W: Wizard
 
 ## Money
 
-Coins represent the monetary system. 
+Coins represent the monetary system.
 
 **Value**
 : 500CP = 50SP = 10EP = 5GP = 1PP = $500  
@@ -1406,14 +1348,14 @@ Coins represent the monetary system.
 | Cloth (per 10 sq. yds.), Rich   |    100 gp |        10 |
 | Candle                          |      1 cp |         — |
 | Canvas (per sq. yd.)            |      4 sp |         1 |
-| Chalk                           |      1 cp |       `*` |
+| Chalk                           |      1 cp |         † |
 | Crampons                        |      4 gp |         2 |
-| Fishhook                        |      1 sp |      `**` |
+| Fishhook                        |      1 sp |         ‡ |
 | Fishing Net (10 ft. sq.)        |      4 sp |         5 |
-| Flint and Steel                 |      5 sp |       `*` |
-| Glass Bottle                    |     10 gp |       `*` |
+| Flint and Steel                 |      5 sp |         † |
+| Glass Bottle                    |     10 gp |         † |
 | Grappling Hook                  |      8 sp |         4 |
-| Holy Item (symbol, water, etc.) |     25 gp |       `*` |
+| Holy Item (symbol, water, etc.) |     25 gp |         † |
 | Hourglass                       |     25 gp |         1 |
 | Iron Pot                        |      5 sp |         2 |
 | Ladder (10 ft.)                 |      5 cp |        20 |
@@ -1422,27 +1364,27 @@ Coins represent the monetary system.
 | Lantern, Hooded                 |      7 gp |         2 |
 | Lock, Good                      |    100 gp |         1 |
 | Lock, Poor                      |     20 gp |         1 |
-| Magnifying Glass                |    100 gp |       `*` |
+| Magnifying Glass                |    100 gp |         † |
 | Map or Scroll Case              |      8 sp |       1/2 |
 | Merchant's Scale                |      2 gp |         1 |
-| Mirror, Small Metal             |     10 gp |       `*` |
+| Mirror, Small Metal             |     10 gp |         † |
 | Musical Instrument              |  5-100 gp |     1/2-3 |
 | Oil (per Flask), Greek Fire     |     10 gp |         2 |
 | Oil (per Flask), Lamp           |      6 cp |         1 |
-| Paper (per Sheet)               |      2 gp |      `**` |
-| Papyrus (per Sheet)             |      8 sp |      `**` |
-| Parchment (per Sheet)           |      1 gp |      `**` |
-| Perfume (per Vial)              |      5 gp |      `**` |
+| Paper (per Sheet)               |      2 gp |         ‡ |
+| Papyrus (per Sheet)             |      8 sp |         ‡ |
+| Parchment (per Sheet)           |      1 gp |         ‡ |
+| Perfume (per Vial)              |      5 gp |         ‡ |
 | Piton                           |      3 cp |       1/2 |
 | Quiver                          |      8 sp |         1 |
 | Rope (per 50 ft.), Hemp         |      1 gp |        20 |
 | Rope (per 50 ft.), Silk         |     10 gp |         8 |
 | Sack, Large                     |      2 sp |       1/2 |
-| Sack, Small                     |      5 cp |       `*` |
+| Sack, Small                     |      5 cp |         † |
 | Sealing/Candle Wax (lb.)        |      1 gp |         1 |
-| Sewing Needle                   |      5 sp |      `**` |
-| Signal Whistle                  |      8 sp |       `*` |
-| Signet Ring, Personal Seal      |      5 gp |       `*` |
+| Sewing Needle                   |      5 sp |         ‡ |
+| Signal Whistle                  |      8 sp |         † |
+| Signet Ring, Personal Seal      |      5 gp |         † |
 | Soap (per lb.)                  |      5 sp |         1 |
 | Spyglass                        |  1,000 gp |         1 |
 | Tent, Large                     |     25 gp |        20 |
@@ -1454,12 +1396,26 @@ Coins represent the monetary system.
 | Whetstone                       |      2 cp |         1 |
 | Wineskin                        |      8 sp |         1 |
 | Winter Blanket                  |      5 sp |         3 |
-| Writing Ink (per Vial)          |      8 gp |      `**` |
+| Writing Ink (per Vial)          |      8 gp |         ‡ |
 
-```
-*	Negligible weight
-**	Practically weightless
-```
+†	Negligible weight
+‡	Practically weightless
+
+### Containers
+
+| Item               | Weight Cap. | Volume        | Capacity  |
+| :----------------- | ----------: | :-----------  | --------: |
+| Backpack           |     50 lbs. | 3' × 2' × 1'  |     6 ft³ |
+| Basket, large      |     20 lbs. | 2' × 2' × 2'  |     8 ft³ |
+| Basket, small      |     10 lbs. | 1' × 1' × 1'  |     1 ft³ |
+| Belt pouch, large  |      8 lbs. | 6" × 8" × 2"  |    96 in³ |
+| Belt pouch, small  |      5 lbs. | 4" × 6" × 2"  |    48 in³ |
+| Chest, large       |    100 lbs. | 3' × 2' × 2'  |    12 ft³ |
+| Chest, small       |     40 lbs. | 2' × 1' × 1'  |     2 ft³ |
+| Sack, large        |     30 lbs. | 2' × 2' × 1'  |     4 ft³ |
+| Sack, small        |     15 lbs. | 1' × 1' × 8"  | 1,152 in³ |
+| Saddle bags, large |     30 lbs. | 18" × 1' × 6" | 1,296 in³ |
+| Saddle bags, small |     20 lbs. | 1' × 1' × 6"  |   864 in³ |
 
 ### Animals
 
@@ -1478,6 +1434,7 @@ Coins represent the monetary system.
 | Dog, War                  |     20 gp |
 | Donkey, Mule, or Ass      |      8 gp |
 | Elephant, Labor           |    200 gp |
+| Elephant, War             |    500 gp |
 | Falcon (Trained)          |  1,000 gp |
 | Goat                      |      1 gp |
 | Goose                     |      5 cp |
@@ -1573,7 +1530,6 @@ Coins represent the monetary system.
 {1} The weapon inflicts double damage against charging creatures of L or greater.
 {2} This weapon can dismount a rider on a successful hit.
 {3} This weapon inflicts double damage when used from the back of a charging mount.
-
 ```
 
 | Weapon                      | Cost   | Size | Type | S Dam | L Dam |
@@ -1588,10 +1544,10 @@ Coins represent the monetary system.
 | Sling Bullet                |   1 cp | S    | B    | 1d4+1 | 1d4+1 |
 | Sling Stone                 |   —    | S    | B    | 1d4   | 1d4   |
 
-**MISSILE WEAPON RANGES**
+**Missile Weapon Ranges**
 
 | Weapon                       | ROF | S.Rng | M.Rng | L.Rng |
-| ---------------------------- | --- | ----: | ----: | ----: |
+| ---------------------------- | :-: | :---: | :---: | :---: |
 | Arquebus                     | 1/3 |   5   |  15   |  21   |
 | Blowgun                      | 2/1 |   1   |   2   |   3   |
 | Comp. long bow, flight arrow | 2/1 |   6   |  12   |  21   |
@@ -1617,10 +1573,10 @@ Coins represent the monetary system.
 | Staff sling bullet           | 2/1 |   —   |  3-6  |   9   |
 | Staff sling stone            | 2/1 |   —   |  3-6  |   9   |
 
-### **Armor***
+### Armor
 
 | Type              | AC  | Cost      | lb. |
-| ----------------- | --- | --------: | --: |
+| :---------------- | :-: | --------: | --: |
 | Banded mail       |  4  |    200 gp |  35 |
 | Brigandine        |  6  |    120 gp |  35 |
 | Bronze plate mail |  4  |    400 gp |  45 |
@@ -1642,12 +1598,6 @@ Coins represent the monetary system.
 | Splint mail       |  4  |     80 gp |  40 |
 | Studded leather   |  7  |     20 gp |  25 |
 
-
-## Weapons
-- Melee weapons
-- Missile weapons
-- Ammunition
-
 ## Combat
 
 ### Attack rolls and THAC0
@@ -1664,29 +1614,26 @@ Rogue:   1/2
 Warrior: 1/1  
 Wizard:  1/3  
 
-### **COMBAT MODIFIERS**
+### Combat Modifiers
 
 | Situation                  | Attack Roll Modifier |
 | -------------------------- | -------------------- |
 | Attacker on higher ground  | +1                   |
 | Defender invisible         | -4                   |
 | Defender off-balance       | +2                   |
-| Defender sleeping or held  | Automatic\*          |
+| Defender sleeping or held  | Automatic†           |
 | Defender stunned or prone  | +4                   |
 | Defender surprised         | +1                   |
 | Missile fire, long range   | -5                   |
 | Missile fire, medium range | -2                   |
 | Rear attack                | +2                   |
 
-```
-*If  the  defender is  attacked  during  the course of  a normal melee, the
+† If  the  defender is  attacked  during  the course of  a normal melee, the
 attack automatically hits and causes normal damage. If no other fighting is
 going on (i.e., all others have been slain or driven off), the defender can
 be slain automatically.
-```
-### Initiative
 
-### **Table 55: STANDARD MODIFIERS TO INITIATIVE**
+### Standard Modifiers To Initiative
 
 | Specific Situation                 | Modifier |
 | ---------------------------------- | :------: |
@@ -1696,15 +1643,22 @@ be slain automatically.
 | Set to receive a charge            |    -2    |
 | Wading or slippery footing         |    +2    |
 | Wading in deep water               |    +4    |
-| Foreign environment\*              |    +6    |
+| Foreign environment†               |    +6    |
 | Hindered (tangled, climbing, held) |    +3    |
 | Waiting (see p. 112)               |    +1    |
 
-```
-* This applies to situations in which the party is in a completely different
+† This applies to situations in which the party is in a completely different
 environment (swimming underwater without the aid of a ring of free movement,
 for example).
-```
+
+### Cover & Concealment
+
+| Target is: | Cover | Concealment |
+| ---------: | ----: | ----------: |
+| 25% hidden |    -2 |          -1 |
+| 50% hidden |    -4 |          -2 |
+| 75% hidden |    -7 |          -3 |
+| 90% hidden |   -10 |          -4 |
 
 ### Movement in combat
 
@@ -1716,10 +1670,36 @@ for example).
 
 ### Turning Undead
 
+A successful turn or dispel affects 2d6 undead.
+
+>                                            Level of Priest (Paladin$)
+
+| Type or Hit Die of Undead |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 12 | 14+ |
+| :------------------------ | -: | -: | -: | -: | -: | -: | -: | --:| -: | -: | -: | --: |
+| Skeleton or 1 HD          | 10 |  7 |  4 |  T |  T |  D |  D | D† | D† | D† | D† | D†  |
+| Zombie                    | 13 | 10 |  7 |  4 |  T |  T |  D |  D | D† | D† | D† | D†  |
+| Ghoul or 2 HD             | 16 | 13 | 10 |  7 |  4 |  T |  T |  D |  D | D† | D† | D†  |
+| Shadow or 3-4 HD          | 19 | 16 | 13 | 10 |  7 |  4 |  T |  D |  D |  D | D† | D†  |
+| Wight or 5 HD             | 20 | 19 | 16 | 13 | 10 |  7 |  4 |  T |  T |  T |  D | D†  |
+| Ghast                     |  - | 20 | 19 | 16 | 13 | 10 |  7 |  4 |  T |  T |  D |  D  |
+| Wraith or 6 HD            |  - |  - | 20 | 19 | 16 | 13 | 10 |  7 |  4 |  T |  T |  D  |
+| Mummy or 7 HD             |  - |  - |  - | 20 | 19 | 16 | 13 | 10 |  7 |  4 |  T |  T  |
+| Spectre or 8 HD           |  - |  - |  - |  - | 20 | 19 | 16 | 13 | 10 |  7 |  4 |  T  |
+| Vampire or 9 HD           |  - |  - |  - |  - |  - | 20 | 19 | 16 | 13 | 10 |  7 |  4  |
+| Ghost or 10 HD            |  - |  - |  - |  - |  - |  - | 20 | 19 | 16 | 13 | 10 |  7  |
+| Lich or 11+ HD            |  - |  - |  - |  - |  - |  - |  - | 20 | 19 | 16 | 13 | 10  |
+| Special‡                  |  - |  - |  - |  - |  - |  - |  - |  - | 20 | 19 | 16 | 13  |
+
+T  = Turned  
+D  = Destroyed  
+D† = Destroyed; additionally 2d4 creatures of this type are turned.  
+‡ Special creatures include unique undead, free-willed undead of the Negative Material Plane,  
+  certain Greater and Lesser Powers, and undead dwelling on the outer planes.  
+$ Paladins turn undead as priests who are two levels lower.  
 
 ## Saving throws
 
-### **Wizards**
+### Wizards
 
 | Saving Throw Category                |  1 |  6 | 11 | 16 | 21 |
 | ------------------------------------ | -- | -- | -- | -- | -- |
@@ -1729,7 +1709,7 @@ for example).
 | Breath Weapon`**`                    | 15 | 13 | 11 |  9 |  7 |
 | Spell`***`                           | 12 | 10 |  8 |  6 |  4 |
 
-### **Warriors**
+### Warriors
 
 | Saving Throw Category                |  0 |  1 |  3 |  5 |  7 |  9 | 11 | 13 | 15 | 17 |
 | ------------------------------------ | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -1739,7 +1719,7 @@ for example).
 | Breath Weapon`**`                    | 20 | 17 | 16 | 13 | 12 |  9 |  8 |  5 |  4 |  4 |
 | Spell`***`                           | 19 | 17 | 16 | 14 | 13 | 11 | 10 |  8 |  7 |  6 |
 
-### **Rogues**
+### Rogues
 
 | Saving Throw Category                |  1 |  5 |  9 | 13 | 17 | 21 |
 | ------------------------------------ | -- | -- | -- | -- | -- | -- |
@@ -1749,7 +1729,7 @@ for example).
 | Breath Weapon`**`                    | 16 | 15 | 14 | 13 | 12 | 11 |
 | Spell`***`                           | 15 | 13 | 11 |  9 |  7 |  5 |
 
-### **Priests**
+### Priests
 
 | Saving Throw Category                |  1 |  4 |  7 | 10 | 13 | 16 | 19 |
 | ------------------------------------ | -- | -- | -- | -- | -- | -- | -- |
@@ -1765,55 +1745,94 @@ for example).
 *** Excludes magical attack forms that require a save vs. petrification or polymorph.
 ```
 
-
 ## Vision
 
 ### Visibility ranges
 
 ### Light sources
 
+| Source             | Radius | Burning Time      |
+| :----------------  | -----: | :---------------- |
+| Bonfire            |  50 ft | 1/2 hour/armload  |
+| Campfire           |  35 ft | 1 hour/armload    |
+| Candle             |   5 ft | 10 minutes/inch   |
+| Continual light    |  60 ft | Indefinite        |
+| Lantern, Beacon†   | 240 ft | 30 minutes/pint   |
+| Lantern, Bullseye† |  60 ft | 2 hours/pint      |
+| Lantern, Hooded    |  30 ft | 2 hours/pint      |
+| Light spell        |  20 ft | Variable          |
+| Torch              |  15 ft | 30 minutes        |
+
+† Light from these is not cast in a radius, but rather in a cone-shaped beam. At
+its far end, the cone of light from a beacon lantern is 90 feet wide. A bullseye
+lantern has a beam 20 feet wide at its far end.
+
 ### Infravision
 
-## Time & Movement
+## Movement
 
 ### Base movement rates
 
+ 6: Dwarf, Gnome, Halfling  
+12: Human, Elf, Half-Elf  
+
 ### Overland movement
+
+| Mount         | Move | Base Load  | 2/3 Move     | 1/3 Move       |
+| :------------ | ---: | ---------: | -----------: | -------------: |
+| Camel         |   21 | 0-330 lbs. | 331-500 lbs. |   501-660 lbs. |
+| Dog           |   12 |  0-15 lbs. |   16-20 lbs. |     21-30 lbs. |
+| Elephant      |   12 | 0-500 lbs. | 501-750 lbs. | 751-1,000 lbs. |
+| Horse, draft  |   12 | 0-260 lbs. | 261-390 lbs. |   391-520 lbs. |
+| Horse, heavy  |   15 | 0-260 lbs. | 261-390 lbs. |   391-520 lbs. |
+| Horse, light  |   24 | 0-170 lbs. | 171-255 lbs. |   256-340 lbs. |
+| Horse, medium |   18 | 0-220 lbs. | 221-330 lbs. |   331-440 lbs. |
+| Horse, riding |   24 | 0-180 lbs. | 181-270 lbs. |   271-360 lbs. |
+| Mule          |   12 | 0-250 lbs. | 251-375 lbs. |   376-500 lbs. |
+| Ox            |    9 | 0-220 lbs. | 221-330 lbs. |   331-440 lbs. |
+| Yak           |   12 | 0-220 lbs. | 221-330 lbs. |   331-440 lbs. |
 
 ### Swimming
 
 ### Climbing
 
-### Table 65: Base Climbing Success Rates
-| Character Type | Base Chance |
-|:---------------|:-----------:|
-| Thief (Climb Walls) | 60% |
-| Bard | 50% |
-| Unskilled Climber | 40% |
+### Base Climbing Success Rates
 
-### Table 66: Climbing Modifiers
-| Condition | Modifier |
-|:----------|---------:|
-| Abundant handholds | +55% |
-| Rope against wall | +40% |
-| Inward slope | +25% |
-| Scale/Chain armor | -15% |
-| Banded/Splint armor | -25% |
-| Plate armor | -50% |
-| Dwarf | -10% |
-| Gnome/Halfling | -15% |
-| Wet/Crumbling surface | -25% |
-| Slippery surface | -40% |
-| Encumbrance category | -5% |
+| Character Type      | Base Chance |
+|:--------------------|:-----------:|
+| Thief (Climb Walls) |    60%      |
+| Bard                |    50%      |
+| Unskilled Climber   |    40%      |
 
-### Table 67: Rates of Climbing
-| Surface | Rate |
-|:--------|:-----|
-| Very smooth | 1/3 movement |
-| Smooth/cracked | 1/2 movement |
-| Rough | Full movement |
-| Sloping wall | 2× movement |
-| Rope & wall | Full movement |
-| Thieves | Double listed rates |
-| Rappelling | Normal movement |
+### Climbing Modifiers
 
+| Condition             | Modifier |
+|:----------------------|:--------:|
+| Abundant handholds    | +55%     |
+| Rope against wall     | +40%     |
+| Inward slope          | +25%     |
+| Scale/Chain armor     | -15%     |
+| Banded/Splint armor   | -25%     |
+| Plate armor           | -50%     |
+| Dwarf                 | -10%     |
+| Gnome/Halfling        | -15%     |
+| Wet/Crumbling surface | -25%     |
+| Slippery surface      | -40%     |
+| Encumbrance category  |  -5%     |
+
+### Rates of Climbing
+
+| Surface        | Rate                |
+|:---------------|:--------------------|
+| Very smooth    | 1/3 movement        |
+| Smooth/cracked | 1/2 movement        |
+| Rough          | Full movement       |
+| Sloping wall   | 2× movement         |
+| Rope & wall    | Full movement       |
+| Thieves        | Double listed rates |
+| Rappelling     | Normal movement     |
+
+<!--
+† is <alt>0134
+‡ is <alt>0135
+-->
