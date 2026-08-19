@@ -1,6 +1,15 @@
 # AD&D 2E Player Reference
 
+---
+title: "AD&D 2nd Edition Player Reference Guide"  
+system: "Advanced Dungeon & Dragons 2nd Edition"  
+ruleset: "Core PHB"  
+intended_use: "Rules lookup"  
+---
+
 ## Player Abilities
+
+An Ability check is successful when: d20 <= (Ability Score + Modifier)
 
 ### Strength
 
@@ -234,7 +243,7 @@ Fighter/Mage, Fighter/Thief, Fighter/Mage/Thief, Mage/Thief
 
 **Movement**: 6"  
 **Ability Adjustments**: -1 Strength, +1 Dexterity  
-**Vision**: Infravision 60 ft. (90 ft. in starlight or moonlight)  
+**Vision**: Infravision 60 ft.{15% 'Pure Stout'}; 30 ft.{25% mixed-Stout}  
 **Class**: Cleric, Fighter, Thief, Fighter/Thief  
 **Languages**: Common, Halfling; Dwarvish, Elvish, Gnomish, Goblin, Orc  
 **Saving Throw Bonuses**: Constitution-based bonus vs. poison, wands, staves,
@@ -255,8 +264,8 @@ rods, and spells
 
 **Special Abilities**: None  
 **Detections**:
-- Determine whether a passage slopes upward or downward (1/6)
-- Determine approximate direction underground (2/6)
+- Determine whether a passage slopes upward or downward (3/4)
+- Determine approximate direction underground (3/6)
 - Determine approximate depth underground (2/6)
 
 ***
@@ -340,7 +349,7 @@ to attack rolls. This costs 1 extra proficiency slot.
 If the bow or crossbow is ready at the start of a round, they may fire before
 initiative rolls.
 
-Specialist Attacks Per Round
+Weapon Specialist Attacks Per Round
 
 | Level | Melee Weapon | Light Crossbow | Heavy Crossbow | Thrown Dagger | Thrown Dart | Other Missile Weapon |
 |-------|--------------|----------------|----------------|---------------|-------------|----------------------|
@@ -573,7 +582,7 @@ and Lesser Divination.
 
 A specialist wizard concentrates on a single school of magic.
 
-A specialist gains the following benefits:
+A specialist wizard gains the following benefits:
 
 - One additional spell slot per spell level, provided the additional spell is
   from the specialist's chosen school.
@@ -585,10 +594,10 @@ A specialist gains the following benefits:
 - When researching new spells, spells from the specialist school are treated
   as one level lower in difficulty.
 
-A specialist may learn and cast spells only from schools available to the
-specialty. Opposing schools are prohibited.
+A specialist wizard may learn and cast spells only from schools available
+to the specialty. Opposing schools are prohibited.
 
-Specialists cannot be multiclass characters except for gnome illusionists.
+Specialist wizards cannot be multiclass characters except for gnome illusionists.
 
 #### Illusionist
 
@@ -661,16 +670,16 @@ Priest Experience Levels
 | 12    | 900,000   | 300,000      | 9+6      |
 | 13    | 1,125,000 | 750,000{1}   | 9+8      |
 | 14    | 1,350,000 | 1,500,000{2} | 9+10     |
-| 15    | 1,575,000 | 3,000,000{3} |9+12     |
+| 15    | 1,575,000 | 3,000,000{3} | 9+12     |
 | 16    | 1,800,000 | 3,500,000    | 9+14     |
-| 17    | 2,025,000 |   500,000    | 9+16     |
-| 18    | 2,250,000 | 1,000,000    | 9+18     |
-| 19    | 2,475,000 | 1,500,000    | 9+20     |
-| 20    | 2,700,000 | 2,000,000    | 9+22     |
+| 17    | 2,025,000 | 4,000,000    | 9+16     |
+| 18    | 2,250,000 | 4,500,000    | 9+18     |
+| 19    | 2,475,000 | 5,000,000    | 9+20     |
+| 20    | 2,700,000 | 5,500,000    | 9+22     |
 
 {1} Only 9 Archdruids per world.  
 {2} Only 3 Great Druids per world.  
-{3} Grand Druid; There can be only one per world.
+{3} Grand Druid; There can be only one per world.  
 
 Priest Spell Progression
 
@@ -802,6 +811,8 @@ attacks, and senses of the chosen form, but retains personal memories and
 intelligence.
 
 ### Rogue
+
+Thief & Bard are subclasses of the Rogue.
 
 ### Rogue Experience Levels
 
@@ -1141,8 +1152,8 @@ scrolls according to the normal rules governing arcane spellcasting.
 | Hunting             |   F     |   1   | Wisdom       |  -1   | Track and harvest game                |
 | Juggling            |   R     |   1   | Dexterity    |  -1   | Keep multiple objects aloft           |
 | Jumping             |   R     |   1   | Strength     |   0   | Increase jump distance                |
-| Languages-Ancient   |   PW    |   1   | Intelligence |   0   | Read or speak ancient tongues         |
-| Languages-Modern    |   G     |   1   | Intelligence |   0   | Read or speak modern languages        |
+| Languages, Ancient  |   PW    |   1   | Intelligence |   0   | Read or speak ancient tongues         |
+| Languages, Modern    |   G     |   1   | Intelligence |   0   | Read or speak modern languages        |
 | Leatherworking      |   G     |   1   | Intelligence |   0   | Make and repair leather goods         |
 | Local History       |   PR    |   1   | Charisma     |   0   | Know regional history and legends     |
 | Mining              |   G     |   2   | Wisdom       |  -3   | Locate and extract ore deposits       |
@@ -1186,9 +1197,9 @@ Coins represent the monetary system.
 **Value**
 : 500CP = 50SP = 10EP = 5GP = 1PP = $500  
 **Size**
-:1-inch diameter, 1/10-inch thick, 50 per pound  
+: 1-inch diameter, 1/10-inch thick, 50 per pound  
 **Volume**
-:1 cubic inch stacked, 2.5 cubic inches loose  
+: 1 cubic inch stacked, 2.5 cubic inches loose  
 
 ## Equipment
 ### Mundane Equipment
@@ -1403,7 +1414,7 @@ Coins represent the monetary system.
 
 ### Containers
 
-| Item               | Weight Cap. | Volume        | Capacity  |
+| Item               | Weight Cap. | Measurements  | Volume    |
 | :----------------- | ----------: | :-----------  | --------: |
 | Backpack           |     50 lbs. | 3' × 2' × 1'  |     6 ft³ |
 | Basket, large      |     20 lbs. | 2' × 2' × 2'  |     8 ft³ |
@@ -1459,7 +1470,7 @@ Coins represent the monetary system.
 
 ### Weapons
 
-| Item                        | Cost   | Wgt | Size | Type | Spd | S Dam | L Dam |
+| Item                        | Cost   | Wgt | Size | Type | Spd | SM.Dmg | L.Dmg |
 |-----------------------------|--------|-----|------|------|-----|-------|-------|
 | Arquebus                    | 500 gp |  10 | M    | P    |  15 | 1d10  | 1d10  |
 | Battle Axe                  |   5 gp |   7 | M    | S    |   7 | 1d8   | 1d8   |
@@ -1526,13 +1537,13 @@ Coins represent the monetary system.
 | Warhammer                   |   2 gp |   6 | M    | B    |   4 | 1d4+1 | 1d4   |
 | Whip                        |   1 sp |   2 | M    | —    |   8 | 1d2   | 1     |
 
-```
-{1} The weapon inflicts double damage against charging creatures of L or greater.
-{2} This weapon can dismount a rider on a successful hit.
-{3} This weapon inflicts double damage when used from the back of a charging mount.
-```
+{1} The weapon inflicts double damage against charging creatures of L or greater.  
+{2} This weapon can dismount a rider on a successful hit.  
+{3} This weapon inflicts double damage when used from the back of a charging mount.  
+SM.Dmg : Damage done to Small & Medium targets  
+L.Dmg : Damage done to Large targets  
 
-| Weapon                      | Cost   | Size | Type | S Dam | L Dam |
+| Weapon                      | Cost   | Size | Type | SM.Dmg | L.Dmg |
 |-----------------------------|-------:|------|------|-------|-------|
 | Blowgun, Barbed Dart        |   1 sp | S    | P    | 1d3   | 1d2   |
 | Blowgun, Needle             |   2 gp | S    | P    | 1     | 1     |
@@ -1573,6 +1584,10 @@ Coins represent the monetary system.
 | Staff sling bullet           | 2/1 |   —   |  3-6  |   9   |
 | Staff sling stone            | 2/1 |   —   |  3-6  |   9   |
 
+S.Rng : Short Range  
+M.Rng : Medium Range  
+L.Rng : Long Range  
+
 ### Armor
 
 | Type              | AC  | Cost      | lb. |
@@ -1602,7 +1617,9 @@ Coins represent the monetary system.
 
 ### Attack rolls and THAC0
 
-|         |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
+Target AC Needed = Attacker THAC0 - Target AC
+
+|  Level: |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 |
 | ------- | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: | -: |
 | Priest  | 20 | 20 | 20 | 18 | 18 | 18 | 16 | 16 | 16 | 14 | 14 | 14 | 12 | 12 | 12 |
 | Rogue   | 20 | 20 | 19 | 19 | 18 | 18 | 17 | 17 | 16 | 16 | 15 | 15 | 14 | 14 | 13 |
@@ -1701,49 +1718,47 @@ $ Paladins turn undead as priests who are two levels lower.
 
 ### Wizards
 
-| Saving Throw Category                |  1 |  6 | 11 | 16 | 21 |
+| Saving Throw Category         level  |  1 |  6 | 11 | 16 | 21 |
 | ------------------------------------ | -- | -- | -- | -- | -- |
 | Paralyzation, Poison, or Death Magic | 14 | 13 | 11 | 10 |  8 |
 | Rod, Staff, or Wand                  | 11 |  9 |  7 |  5 |  3 |
-| Petrification or Polymorph`*`        | 13 | 11 |  9 |  7 |  5 |
-| Breath Weapon`**`                    | 15 | 13 | 11 |  9 |  7 |
-| Spell`***`                           | 12 | 10 |  8 |  6 |  4 |
+| Petrification or Polymorph{1}        | 13 | 11 |  9 |  7 |  5 |
+| Breath Weapon{2}                     | 15 | 13 | 11 |  9 |  7 |
+| Spell{3}                             | 12 | 10 |  8 |  6 |  4 |
 
 ### Warriors
 
-| Saving Throw Category                |  0 |  1 |  3 |  5 |  7 |  9 | 11 | 13 | 15 | 17 |
+| Saving Throw Category          level |  0 |  1 |  3 |  5 |  7 |  9 | 11 | 13 | 15 | 17 |
 | ------------------------------------ | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | Paralyzation, Poison, or Death Magic | 16 | 14 | 13 | 11 | 10 |  8 |  7 |  5 |  4 |  3 |
 | Rod, Staff, or Wand                  | 18 | 16 | 15 | 13 | 12 | 10 |  9 |  7 |  6 |  5 |
-| Petrification or Polymorph`*`        | 17 | 15 | 14 | 12 | 11 |  9 |  8 |  6 |  5 |  4 |
-| Breath Weapon`**`                    | 20 | 17 | 16 | 13 | 12 |  9 |  8 |  5 |  4 |  4 |
-| Spell`***`                           | 19 | 17 | 16 | 14 | 13 | 11 | 10 |  8 |  7 |  6 |
+| Petrification or Polymorph{1}        | 17 | 15 | 14 | 12 | 11 |  9 |  8 |  6 |  5 |  4 |
+| Breath Weapon{2}                     | 20 | 17 | 16 | 13 | 12 |  9 |  8 |  5 |  4 |  4 |
+| Spell{3}                             | 19 | 17 | 16 | 14 | 13 | 11 | 10 |  8 |  7 |  6 |
 
 ### Rogues
 
-| Saving Throw Category                |  1 |  5 |  9 | 13 | 17 | 21 |
+| Saving Throw Category          level |  1 |  5 |  9 | 13 | 17 | 21 |
 | ------------------------------------ | -- | -- | -- | -- | -- | -- |
 | Paralyzation, Poison, or Death Magic | 13 | 12 | 11 | 10 |  9 |  8 |
 | Rod, Staff, or Wand                  | 14 | 12 | 10 |  8 |  6 |  4 |
-| Petrification or Polymorph`*`        | 12 | 11 | 10 |  9 |  8 |  7 |
-| Breath Weapon`**`                    | 16 | 15 | 14 | 13 | 12 | 11 |
-| Spell`***`                           | 15 | 13 | 11 |  9 |  7 |  5 |
+| Petrification or Polymorph{1}        | 12 | 11 | 10 |  9 |  8 |  7 |
+| Breath Weapon{2}                     | 16 | 15 | 14 | 13 | 12 | 11 |
+| Spell{3}                             | 15 | 13 | 11 |  9 |  7 |  5 |
 
 ### Priests
 
-| Saving Throw Category                |  1 |  4 |  7 | 10 | 13 | 16 | 19 |
+| Saving Throw Category          level |  1 |  4 |  7 | 10 | 13 | 16 | 19 |
 | ------------------------------------ | -- | -- | -- | -- | -- | -- | -- |
 | Paralyzation, Poison, or Death Magic | 10 |  9 |  7 |  6 |  5 |  4 |  2 |
 | Rod, Staff, or Wand                  | 14 | 13 | 11 | 10 |  9 |  8 |  6 |
-| Petrification or Polymorph`*`        | 13 | 12 | 10 |  9 |  8 |  7 |  5 |
-| Breath Weapon`**`                    | 16 | 15 | 13 | 12 | 11 | 10 |  8 |
-| Spell`***`                           | 15 | 14 | 12 | 11 | 10 |  9 |  7 |
+| Petrification or Polymorph{1}        | 13 | 12 | 10 |  9 |  8 |  7 |  5 |
+| Breath Weapon{2}                     | 16 | 15 | 13 | 12 | 11 | 10 |  8 |
+| Spell{3}                             | 15 | 14 | 12 | 11 | 10 |  9 |  7 |
 
-```
-* Excludes dragon breath.
-** Excludes polymorph wand attacks.
-*** Excludes magical attack forms that require a save vs. petrification or polymorph.
-```
+{1} Excludes dragon breath.  
+{2} Excludes polymorph wand attacks.  
+{3} Excludes magical attack forms that require a save vs. petrification or polymorph.  
 
 ## Vision
 
