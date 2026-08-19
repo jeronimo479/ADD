@@ -477,10 +477,10 @@ Ranger Abilities
 | 13           | 85%            | 99%†           | 6             | 3   | 2   | 1   |
 | 14           | 93%            | 99%†           | 7             | 3   | 2   | 2   |
 | 15           | 99%†           | 99%†           | 8             | 3   | 3   | 2   |
-| 16           | 99%†           | 99%†           | 9             | 3   | 3‡  | 3   |
+| 16           | 99%†           | 99%†           | 9‡            | 3   | 3   | 3   |
 
 † Maximum percentile score  
-‡ Maximum spell ability
+‡ Maximum casting level (9th level priest)
 
 A ranger must always strive to remain good. If a ranger intentionally commits
 an evil act, the ranger loses all ranger abilities and becomes a fighter of the
