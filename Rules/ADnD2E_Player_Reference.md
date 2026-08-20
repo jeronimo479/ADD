@@ -147,8 +147,8 @@ An Ability check is successful when: d20 <= (Ability Score + Modifier)
 **Vision**: Infravision 60 ft.  
 **Class**: Cleric, Fighter, Thief, Fighter/Cleric, Fighter/Thief  
 **Languages**: Common, Dwarvish; Gnome, Goblin, Kobold, Orc, Hobgoblin  
-**Saving Throw Bonuses**: Constitution-based bonus vs. poison, wands, staves,
-rods, and spells  
+**Saving Throw Bonuses**: Constitution-based bonus vs. wands, staves,
+rods, spells, and poison  
 
 | Constitution Score | Saving Throw Bonus |
 |--------------------|--------------------|
@@ -159,8 +159,8 @@ rods, and spells
 | 18-19              | +5                 |
 
 **Combat Bonuses**:
-- +1 attack vs. Goblins, Hobgoblins, and Orcs.
-- Giants, Ogres, Trolls, and Titans suffer -4 to attack dwarves.
+- +1 attack vs. goblins, half-orcs, hobgoblins, and orcs.
+-  Giants, ogres, ogre magi, titans, and trolls suffer -4 to attack dwarves.
 
 **Special Abilities**: 20% malfunction chance when using magical items not suited to class.  
 **Detections**:
@@ -246,8 +246,8 @@ Fighter/Mage, Fighter/Thief, Fighter/Mage/Thief, Mage/Thief
 **Vision**: Infravision 60 ft.{15% 'Pure Stout'}; 30 ft.{25% mixed-Stout}  
 **Class**: Cleric, Fighter, Thief, Fighter/Thief  
 **Languages**: Common, Halfling; Dwarvish, Elvish, Gnomish, Goblin, Orc  
-**Saving Throw Bonuses**: Constitution-based bonus vs. poison, wands, staves,
-rods, and spells
+**Saving Throw Bonuses**: Constitution-based bonus vs. wands, staves,
+rods, spells, and poison  
 
 | Constitution Score | Saving Throw Bonus |
 |--------------------|--------------------|
@@ -266,7 +266,6 @@ rods, and spells
 **Detections**:
 - Determine whether a passage slopes upward or downward (3/4)
 - Determine approximate direction underground (3/6)
-- Determine approximate depth underground (2/6)
 
 ***
 ### Human
