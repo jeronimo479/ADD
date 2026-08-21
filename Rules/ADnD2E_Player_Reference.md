@@ -397,22 +397,24 @@ exceptional and loyal creature that serves only the paladin.
 A paladin can cast priest spells beginning at 9th level. Paladin spells are
 drawn from the spheres of combat, divination, healing, and protection.
 
-Paladin Spell Progression:
+TABLE 17: PALADIN SPELL PROGRESSION
 
-| Paladin Level | 1st | 2nd | 3rd | 4th |
-|---------------|-----|-----|-----|-----|
-| 9             | 1   | -   | -   | -   |
-| 10            | 2   | -   | -   | -   |
-| 11            | 2   | 1   | -   | -   |
-| 12            | 2   | 2   | -   | -   |
-| 13            | 2   | 2   | 1   | -   |
-| 14            | 3   | 2   | 1   | -   |
-| 15            | 3   | 2   | 1   | 1   |
-| 16            | 3   | 3   | 2   | 1   |
-| 17            | 3   | 3   | 2   | 2   |
-| 18            | 3   | 3   | 3   | 2   |
-| 19            | 3   | 3   | 3   | 3   |
-| 20            | 3   | 3   | 3   | 3   |
+| Paladin Casting Level | Priest Spell Level | 1 | 2 | 3 | 4 |
+|-----------------------|--------------------|---|---|---|---|
+| 9                     | 1                  | 1 |   |   |   |
+| 10                    | 2                  | 2 |   |   |   |
+| 11   	                | 3                  | 2 | 1 |   |   |
+| 12                    | 4                  | 2 | 2 |   |   |
+| 13                    | 5                  | 2 | 2 | 1 |   |
+| 14                    | 6                  | 3 | 2 | 1 |   |
+| 15                    | 7                  | 3 | 2 | 1 | 1 |
+| 16                    | 8                  | 3 | 3 | 2 | 1 |
+| 17                    | 9†                 | 3 | 3 | 3 | 1 |
+| 18                    | 9†                 | 3 | 3 | 3 | 1 |
+| 19                    | 9†                 | 3 | 3 | 3 | 2 |
+| 20                    | 9†                 | 3 | 3 | 3 | 3 |
+
+† Maximum spell ability
 
 Paladins may never possess more than 10 magical items. No more than one suit
 of magical armor, one magical shield, four magical weapons, and four other

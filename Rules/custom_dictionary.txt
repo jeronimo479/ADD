@@ -1,0 +1,405 @@
+18/00
+18/01-50
+18/51-75
+18/76-90
+18/91-99
+1d10
+1d100
+1d12
+1d20
+1d3
+1d4
+1d6
+1d8
+2d10
+2d12
+2d4
+2d6
+2d8
+3d4
+3d6
+4d6
+5d4
+5d6
+6d6
+ability check
+ability score
+ability scores
+Abjuration
+abjurer
+abjurers
+AD&D
+Advanced Dungeons & Dragons
+alignment
+alignments
+All sphere
+Alteration
+animal empathy
+Animal sphere
+Archdruid
+Archdruids
+area of effect
+Armor Class
+Armor Class 0
+Arneson
+arquebus
+Astral sphere
+attack roll
+attack rolls
+backstab
+backstabbing
+banded mail
+bard
+bards
+bastard sword
+battle axe
+bend bars
+blowgun
+body shield
+bonus spells
+breath weapon
+brigandine
+broad sword
+bronze plate mail
+buckler
+bugbear
+bugbears
+casting level
+casting time
+chain mail
+chance of spell failure
+chance to learn spell
+Chaotic Evil
+Chaotic Good
+Chaotic Neutral
+Charisma
+Charm
+Charm sphere
+cleric
+clerics
+Climb Walls
+Combat sphere
+Complete Fighter's Handbook
+Complete Priest's Handbook
+Complete Thief's Handbook
+Complete Wizard's Handbook
+composite long bow
+composite short bow
+concealment
+Conjuration
+Conjuration/Summoning
+conjurer
+conjurers
+Constitution
+cover
+Creation sphere
+crossbow
+dagger
+damage adjustment
+dart
+David Cook
+demihuman
+demi-human
+demihumans
+demi-humans
+Detect Noise
+Dexterity
+Divination
+Divination sphere
+diviner
+diviners
+druid
+druids
+dual-class
+dual-classed
+Dungeon Master
+Dungeon Master's Guide
+Dungeons & Dragons
+dwarven
+Elemental sphere
+elven
+enchanter
+enchanters
+Enchantment
+Enchantment/Charm
+encumbrance
+ettin
+ettins
+Evocation
+exceptional Strength
+experience point
+experience points
+field plate
+fighter
+fighters
+Find/Remove Traps
+flail
+follower
+followers
+Forgotten Realms
+full plate
+gauntlet
+gauntlets
+ghast
+ghasts
+ghost
+ghosts
+ghoul
+ghouls
+giant
+giants
+girdle
+girdles
+gnoll
+gnolls
+gnomish
+goblin
+goblins
+Grand Druid
+Great Druid
+Greater Divination
+Guardian sphere
+Gygax
+Hairfeet
+Hairfoot
+half-elven
+half-orc
+half-orcs
+hand crossbow
+Healing sphere
+heavy crossbow
+henchman
+henchmen
+hide armor
+Hide in Shadows
+hierophant
+hierophants
+hireling
+hirelings
+Hit Dice
+Hit Die
+hit point
+hit points
+hobgoblin
+hobgoblins
+holy sword
+Illusion
+Illusion/Phantasm
+illusionist
+illusionists
+infravision
+initiative
+Intelligence
+Invocation
+Invocation/Evocation
+invoker
+invokers
+javelin
+Kara-Tur
+knife
+kobold
+kobolds
+lance
+Lawful Evil
+Lawful Good
+Lawful Neutral
+lay on hands
+leather armor
+Lesser Divination
+lich
+liches
+lift gates
+light crossbow
+long bow
+long sword
+lycanthropy
+mace
+mage
+mages
+magic resistance
+magical defense adjustment
+major access
+mancatcher
+material component
+maximum press
+medium shield
+melee
+memorization
+memorize
+memorized
+minor access
+missile combat
+Monstrous Compendium
+morning star
+Move Silently
+movement rate
+multiclass
+multi-class
+multiclassed
+multi-classed
+mummies
+mummy
+necromancer
+necromancers
+Necromancy
+Necromantic sphere
+Neutral Evil
+Neutral Good
+nonlethal combat
+non-lethal combat
+nonplayer character
+non-player character
+nonweapon proficiencies
+nonweapon proficiency
+ogre
+ogre mage
+ogre magi
+ogres
+open doors
+Open Locks
+orc
+orcs
+overbearing
+padded armor
+paladin
+paladins
+paralyzation
+parrying
+percentile dice
+percentile Strength
+petrification
+Phantasm
+Pick Pockets
+Plant sphere
+plate mail
+Player's Handbook
+poison save
+polearm
+polymorph
+polymorphing
+potion
+potions
+priest
+priests
+prime requisite
+prime requisites
+proficiencies
+proficiency
+Protection sphere
+quarterstaff
+ranger
+rangers
+rate of fire
+reaction adjustment
+Read Languages
+regeneration
+resurrection survival
+reversible
+ring
+ring mail
+rings
+rod
+rods
+rogue
+rogues
+saving throw
+saving throws
+scale mail
+scimitar
+scroll
+scrolls
+shadow
+shadows
+shapechange
+short bow
+short sword
+sickle
+skeleton
+skeletons
+sling
+small shield
+somatic component
+spear
+specialist wizard
+specialist wizards
+specialization
+spectre
+spectres
+spell level
+spell levels
+spellbook
+spellbooks
+spellcaster
+spellcasters
+spellcasting
+sphere of influence
+spheres of influence
+splint mail
+staff
+staff sling
+staves
+Stout
+Stoutish
+Stouts
+Strength
+stronghold
+strongholds
+studded leather
+Summoning
+Summoning sphere
+Sun sphere
+surprise roll
+system shock
+Tallfellow
+Tallfellows
+THAC0
+THAC0 advancement
+THACO
+thief
+thieves
+titan
+titans
+Tracking
+transmuter
+transmuters
+trident
+troll
+trolls
+True Neutral
+TSR
+turn undead
+turning undead
+two-handed sword
+undead
+Unearthed Arcana
+vampire
+vampires
+verbal component
+wand
+wands
+warhammer
+warhorse
+warrior
+warriors
+weapon proficiencies
+weapon proficiency
+weapon specialization
+Weather sphere
+weight allowance
+werebear
+werebears
+wererat
+wererats
+weretiger
+weretigers
+whip
+wight
+wights
+Wisdom
+wizard
+wizards
+wraith
+wraiths
+Zeb Cook
+zombie
+zombies
